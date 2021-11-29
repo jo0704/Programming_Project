@@ -2,6 +2,10 @@
 Comparing 3 different approaches: which one performs better?
 
 1. Norvig Spelling Corrector
+
+edit distance approach
+works with a language model -> British National Corpus
+
 2. VARD2: rule-based preprocessing
 -Run VARD2: run.bat on Windows (requirement to have JAVA installed)/ run.sh on Linux
 -Select User Interface: Batch process (automatic)
