@@ -1,12 +1,15 @@
 # Programming Project: Spelling normalisation of historical English to English
 Comparing 3 different approaches: which one performs better?
 
-1. Norvig Spelling Corrector
+1. Norvig Spelling Corrector: edit distance approach
 
-edit distance approach.
-works with a language model -> British National Corpus
-what makes sense? small letters only, capitalization, etc, tokenization
-xml files from the ARCHER corpus (years 1600-1700): https://drive.switch.ch/index.php/s/DdWK9EtCxQkePuo (public access)
+Code from: https://norvig.com/spell-correct.html \
+works with a language model: British National Corpus \
+what makes sense? small letters only, capitalization, etc, tokenization \
+xml files from the ARCHER corpus for years 1600-1700 (they will be used to create the dev and test set as used in the original code): https://drive.switch.ch/index.php/s/DdWK9EtCxQkePuo (public access) \
+to read the xml files, run xml_parser.py \
+this will output the text file 1600_1700.txt that is in the folder Norvig
+
 
 2. VARD2: rule-based preprocessing
 -Run VARD2: run.bat on Windows (requirement to have JAVA installed)/ run.sh on Linux
