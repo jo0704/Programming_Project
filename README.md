@@ -7,8 +7,9 @@ Code from: https://norvig.com/spell-correct.html \
 works with a language model: British National Corpus \
 what makes sense? small letters only, capitalization, etc, tokenization \
 xml files from the ARCHER corpus for years 1600-1700 (they will be used to create the dev and test set as used in the original code): https://drive.switch.ch/index.php/s/DdWK9EtCxQkePuo (public access) \
-to read the xml files, run xml_parser.py \
-this will output the text file 1600_1700.txt that is in the folder Norvig
+to read the xml files, run:
+'python3 xml_parser.py' 
+this will output the text file '1600_1700.txt' that is in the folder Norvig
 
 
 2. VARD2: rule-based preprocessing
@@ -23,19 +24,19 @@ normalized and unnormalized versions next to each other
 Reference corpus: British National Corpus -> check for spelling (gold standard)
 Corpus for evaluation/training: ARCHER Corpus -> 1600-1700
 
-3. Character-level recurrent sequence-to-sequence model (seq2seq)
-See seq2seq.ipynb
+3. Character-level recurrent sequence-to-sequence model (seq2seq) 
+See 'seq2seq.ipynb'
 
-ICAMET Corpus: separated into dev, train and test set -> one word per line without context
--input: historical English words / target: modern English words
--preprocessing the data
--building the encoder-decoder LSTM model with set parameters
--training the model
--testing the model by making predictions and see how well it performs
-evaluation with ICAMET, and ARCHER (first century 1600-1700)
+**ICAMET Corpus**: separated into dev, train and test set -> one word per line without context
+-input: historical English words / target: modern English words \
+-**step 1: preprocessing the data** \
+-**step 2: building the encoder-decoder LSTM model with set parameters** \
+-**step3: training the model** \
+-**step 4: testing the model** by making predictions and see how well it performs \
+evaluation with ICAMET, and ARCHER (years 1600-1700) \
 
-evaluation metrics
-accuracy: compare with the number of words that don't need to be changed
+**evaluation metrics**
+accuracy: compare with the number of words that don't need to be changed \
 precision and recall -> for words that the algorithm changed something / gold standard cases 
 
 
