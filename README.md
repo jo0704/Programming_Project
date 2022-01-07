@@ -6,6 +6,7 @@ Comparing 3 different approaches: which one performs better?
 edit distance approach.
 works with a language model -> British National Corpus
 what makes sense? small letters only, capitalization, etc, tokenization
+xml files from the ARCHER corpus (years 1600-1700): https://drive.switch.ch/index.php/s/DdWK9EtCxQkePuo (public access)
 
 2. VARD2: rule-based preprocessing
 -Run VARD2: run.bat on Windows (requirement to have JAVA installed)/ run.sh on Linux
