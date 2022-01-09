@@ -1,0 +1,2975 @@
+silk: silke salk 
+principal: principall 
+heaven: heauen heav'n two-heauen 
+show: sew shewe shew 
+dutiful: dutifull 
+bears: beares 
+under: vnder 
+low: lowe 
+leg: legg legge 
+only: onelie onely anely 
+unto: vnto 
+months: moneths monthes 
+new-year's: new-yeares 
+than: then 
+given: gawen giuen giv'n 
+turk: turke 
+emperor: emperour 
+progress: progresse 
+dryads: dryades 
+wooden: woodden wodden 
+dressed: dresed dress'd dresss'd drest 
+ways: waies wayes 
+sweet: sweete 
+herbs: hearbes hearbs 
+peep: peepe paipe 
+virtue: virtue vartue vertue 
+airs: ayres aires 
+sky: skie 
+clear: cleare cleer cleere 
+looked: lookt lookte look'd look't lookd 
+smooth: smoothe 
+sun: sunne 
+apparelled: appareled appareld 
+bridegroom: bridegroome 
+instead: in stead 
+horns: hornes 
+ram: ramme 
+sign: signe 
+celestial: celestiall 
+married: marry'd marryed 
+parcel: parcell 
+gilt: -gilt 
+beams: beames 
+joy: ioy 
+lark: larke 
+window: windowe 
+every: euery ev'ry euerie 
+cuckoo: cuckooe 
+fiddler: fidler 
+reels: reeles 
+tavern: tauerne 
+plied: plyed ply'd plide 
+lambs: lambes 
+frisked: friskte 
+up: vpp vp 
+down: doun doune downe 
+valleys: vallies 
+goats: goates 
+to: too t' 
+mountains: mountaines 
+shepherds: shepheards 
+lovers: louers 
+whilst: whil'st whilest 
+frolic: frolick frolike 
+city: citty citie 
+merry: merrey mery miry 
+olive: oliue oliva 
+nowhere: no where 
+midsummer: midsomer 
+man's: mans 
+door: dore doore hive-doore 
+branches: braunches 
+palm: palme 
+streets: streetes 
+seemed: seem'd seemde seimed 
+have: ha' hast han hav ahve haue ha 
+lord: ld 'lord lard lud lorde 
+jollity: joliti iollity 
+screech owl: scritch-owle 
+frightened: frightned frighted frighten'd 
+noon: noone 
+calm: calme 
+hushed: husht 
+been: heen bin bene bine beene 
+palace: pallace 
+paradise: paradice 
+short-lived: short-liv'd short-liu'de 
+felicity: felicitie 
+stuff: stuffe 
+happiness: happines happyness happynesse happinesse hapiness 
+just: iust 
+jocund: iocund 
+holiday: holyday holy-day 
+storm: storme 
+top: toppe 
+hideous: hidious 
+shook: shak'd shooke 
+even: ee'n e'ne e'en eene euen ev'n 
+oak: oake 
+think: thinck thinke thinkest 
+hawthorn: hawthorne 
+doubtless: doutless doubtlesse 
+droop: droope 
+destiny's: destinies 
+mischief: mischiefe mischieffe 
+high: hagh hie hye 
+black: blacke blak 
+wrinkles: wrinckles 
+sighs: sighes 
+whirlwinds: whirlewindes 
+groans: grones groanes 
+delivered: deliver'd deliverd deliuered 
+meagre: meagry 
+weak: weake 
+sickness: sickenesse sicknesse sicknes 
+needs: needeth needes 
+upon: vpon uppon uper 'pon vppon 
+starveling: starueling 
+that's: thats 
+herald: herauld 
+attired: attirde 
+charged: charg'd chargde chargd 
+go: ga goe 
+privy: priuie 
+queen: queene qeene quean 
+summon: sommon 
+appear: appeere appeare apear 
+summons: sommons 
+having: haveing haueing hauing 
+invincible: inuincible 
+certain: certaine sartin ceartin sartaine 
+news: newes 
+kingdom: kingdome 
+knew: knewe 
+find: finde find'st fin'd 
+lightly: lightlie 
+loss: losse 
+ready: reddy readie 
+heavenly: heav'nly heauenlie 
+obey: obay 
+years: yeares yeres yeeres 
+powerfully: powrefully 
+commanded: commaunded comanded 
+obeyed: obey'd obayed 
+death's: deaths 
+yielded: yeelded yeilded 
+himself: himselfe him zell him-self 
+dies: dieth dyes 
+sceptre: scepter 
+posterity: posterrity posteritie 
+soul: soule 
+immortality: immortalitie 
+took: tooke 
+never: neuer ne'r ne'er ne're nere 
+ave: aue 
+saw: sawe 
+herself: her self her selfe herselfe herzelf 
+understood: vnderstood vnderstoode 
+outlandish: out-landish 
+universal: universall vniuersall 
+fear: feare 
+mourn: mourne 
+justice: iustice 
+merchant's: merchants 
+patroness: patronesse 
+look: looke 
+citizen's: citizens 
+shepherd's: shepheards 
+goddess: goddesse 
+soldier: souldier souldiour 
+walked: walkt walk'd 
+give: giue giv 
+arms: armes 
+bristled: brisseld 
+stiff: stiffe stif 
+moustache: mustachio 
+beggars: beggers 
+hour: houre hower 
+bestir: bestur bestirre 
+usurers: vsurers 
+devil's: diuels 
+angels: ingles 
+quaked: quakt 
+leaves: leaveth leavs leaues 
+oaths: oathes 
+cut-throats: cut-throates 
+stood: stoode 
+me: mee my ma' 
+deceived: deceiued deceiv'd deceiu'd decieved 
+tragedy: tragedie 
+worn: worne 
+funeral: funerall 
+great day: greatday 
+book: booke 
+tragical: tragicall 
+ever: e'er e're euer 
+hearse: herse 
+island: iland 
+rained: rain'd rayned 
+tears: teareth teares 
+weep: weepe 
+dared: durst durest dar'd 
+speak: speake speakest speak'st spoke 
+sorrows: sorrowes 
+whispered: whispred whisper'd whisperd 
+forth: foorthe foorth footh 
+farmer's: farmers 
+seems: seemeth seimes seemes 
+wilderness: wildernes 
+country: contra countrie countri countrey 
+pitifully: pitifullie 
+perfectly: perfectlie 
+follows: followes followeth 
+private: priuat priuate privat preevate 
+itself: itselfe it selfe it self 
+majesty: majestie maiestie 
+ears: eares 
+she: sha shee see 
+laid: lay'd layed layt layd 
+year: yeere yeare 
+wondered: wondred wonder'd 
+octavus: octauus 
+sailing: sayling 
+armada: armado 
+men's: mens 
+inkling: inckling 
+almanac: almanack 
+makers: -makers 
+utterly: vtterly 
+overthrown: ouerthrowne 
+poor: poore 
+threatened: threatned threaten'd threat'ned 
+jew: iew 
+heels: heeles 
+marlin: merlin 
+magician: magitian 
+jubilee: iubile 
+plato's: platoes 
+already: alreadie allready alredy 
+four: foure fowre fowr 
+wonderful: wonderfull 
+poesy: poesie 
+breast: brest 
+feed: fee'd feede 
+twelve-month: twelue-moneth 
+climacterical: climactericall 
+living: liveing liuing 
+twenty: twentie 
+work: worke woork wark 
+perceive: perceiv perceiue 
+pains: paynes paines 
+draw: drawe 
+compass: compas compasse 
+penny: pennie 
+queen's: qeenes queenes queens qeen's 
+kingdoms: kingdoms kingdomes 
+fever: feavour feauer feaver 
+wholesome: wholesom holesome 
+proclaimed: proclaim'd proclaymed 
+begot: begat true-begott 
+mighty: mightie 
+wild: wilde vilde 
+park: parke 
+julius: iulius 
+caesar: cesar cæsar 
+enclosed: enclos'd inclosed inclosd 
+deer: deere 
+whom: whome 
+keep: keep'st kip kep keepe 
+over: o'er oyer o're ouer ore or'e 
+dreadful: dreadfull dread-ful dreaful 
+stow's: stowes 
+countries: countrys countris countreys 
+diadem: deadam diademe 
+stars: starrs starres 
+spain: spaine 
+belgium: belgia 
+giving: giuing giveing 
+aim: ayme 
+arrows: arrowes 
+own: ain oune owne 
+civil: ciuell civill ciuill civell 'civil 
+uproars: vprores 
+wheel: wheele 
+drawn: drawen drawne 
+valiantly: valiantlie 
+clouds: clowdes 
+government: gouernment goverment 
+pairs: paire 
+save: saue 
+james: iames 
+murmurs: murmures 
+shouts: shoutes 
+gladness: gladnesse gladnes 
+triumph: triumphe 
+sworn: sworne 
+river: riuer 
+less: les lesse 
+english: english 
+self: selfe it selfe 
+providence: prouidence 
+solemn: solemne salem 
+seven: seuen sevn seauen 
+was: wert 
+piece: peece 
+little island: littleiland 
+eleven: eleuen 
+christendom: christendome 
+appears: appeares 
+leap: leape 
+cheeks: cheecks cheekes 
+armour: armor 
+fruits: fruites 
+scholar: schollar scholer scholler 
+hymns: hymnes 
+honour: honnour honor 
+be: bee beest 
+drinks: drinkes 
+thrifty: thriftie 
+moon: moone 
+again: againe agen agayne 
+resolves: resolues 
+damned: dambd damnd dam'd damn'd 
+drunk: drunke 
+unicorn's: vnicornes 
+horn: horne 
+old: oulde ould olde 
+tailors: taylors merchant-taylors 
+shears: sheares 
+taffeta: taffaty 
+sailed: sayled sayld saild sail'd 
+necessity: necessitie 
+bravery: brauery 
+press: presse 
+serve: serue serv sarve 
+sharp: sharpe 
+pearl: pearle 
+unless: unlesse unles vnlesse 
+lined: linde 
+bombasted: bumbasted 
+silver: siluer 
+mechanical: mechanicall 
+hard-handed: hardhanded 
+vulcanised: vulcanist 
+resolving: resoluing 
+hot: hote hott 
+persuaded: perswaded 
+master: maister 
+before: afore befoe e'er ere 'fore befor 
+half: halfe 
+player's: players 
+tragically: tragicall 
+villainously: vilainously 
+soever: soeuer 
+ranted: randed 
+unlawful: vnlawfull 
+entered: enterd enter'd entred 
+stroll: strowle 
+travel: trauell 
+fools': fooles 
+plumed: plumd 
+tobacconists: tabacconists 
+filled: filld fill'd fild fil'd 
+taverns: tauernes 
+spick: spicke 
+ivy: iuy 
+rain: raine 
+beaten: -beaten 
+marched: marcht march'd marchd 
+colours: collours cullors colors 
+till: 'till til 
+resolved: resolv'd resolued resolu'd 
+pantofles: pantoffles 
+scorn: scorne 
+worm: worme 
+proverb: prouerbe 
+lincoln: lincolne 
+york: yorke 
+jerusalem: ierusalem 
+lusty: lustie 
+suitors: suiters 
+lofty: loftie 
+beautiful: beautifull 
+thatched: thatcht 
+the: t' th' 'the the' dee ye 
+hog sty: hogsty 
+mousing: mowsing 
+greeks: greekes 
+corn: corne 
+part: pard 
+plucked: pluckt pluck'd 
+die: diest dye dy 
+tail: tayl taile 
+height: heigth heighth 
+security: securitie 
+overlooked: ouer-lookt 
+turned: turnd turnde turn'd 
+general: generall genl 
+now: nou now- nowe 
+fain: faine fayne 
+had: hadst nad had'st 
+oblivion: obliuion 
+graves: graues 
+rank: ranke 
+jaws: iawes 
+closed: clos'd closd 
+shall: sha't shal shalt 
+could: coud cud cou'd coul cooled couldst coulde coolde 
+forever: for euer for ever 
+rivers: riuers 
+hair: hayre haire 
+end: ende 
+brains: braines 
+billows: billowes 
+ink: inck incke inke 
+mournfully: mournefully 
+pale-faced: palefac'd 
+sick: sicke 
+torn: torne 
+silver-tongued: siluer-tongd 
+invoke: inuocate 
+utter: vtter 
+ruthful: ruthfull 
+arm: arme 
+ulcerous: vlcerous 
+mortal: mortall 
+battle: battel battaile 
+driven: driuen 
+widows: widdows widowes widdowes 
+beat: bete beate 
+bosoms: bosomes 
+woefully: wofully 
+dishevelled: dishevell'd disheueld 
+fallen: falln faln falne 
+lie: liest ly lye 
+breathless: breathlesse 
+public: publick publike publique publicke 
+cave: caue 
+cramp: crampe crumpe 
+struck: strok strooke strucke strake 
+palsy: palsey palsi 
+fears: feares 
+villainous: villianous villanous 
+prevent: preuent 
+humour: humor 
+devise: deveze deuise 
+knavery: knauery 
+possess: possesse 
+heat: heate 
+recovered: recover'd recouer'd recouerd recoverd 
+carried: caried carryd carryed carry'd caryed 
+thinks: thinkes thinketh 
+enjoyed: enioy'd injoyed enjoy'd inioyed injoyd injoy'd enioyed 
+fixed: fixt fix'd fix't fexed 
+played: plaid playd play'd 
+divert: diuert 
+discords: discordes 
+divided: diuided 
+selves: selues 
+possessed: posessed possest possess'd 
+stuffed: stuft 
+devil: deuill devill davall diuill de--il dev'l d---l 
+talk: talkst talke talk'st 
+yields: yealds yeelds yeeldeth 
+glib: glebe 
+fruitful: fruictfull fruitfull 
+fellows: vellowes fellowes fellows 
+advocate: aduocate 
+honoured: honored honour'd honord honor'd 
+grave: graue 
+deeds: deedes 
+pass: passe 
+forbear: forbeare 
+sweat: sweate 
+confess: confesse 
+dejected: deiected 
+help: holp helpe 
+deserved: deserv'd deseru'd 
+judgment: iudgement judgement judgmement 
+favour: favor fauour 
+consent: concent cosend 
+aggravate: agravate aggrauate 
+use: vse 
+still: stil styl 
+gain: gaine 
+entreaty: intreaty 
+begin: beginne begine 
+vex: vexe 
+dwarf: dwarfe 
+jig: iig 
+straight: strait streight straight 
+hear: heare 
+grief: greif greef griefe greefe greife 
+mean: mein mean'st meane 
+raven: rauen 
+she-wolf: shee-wolfe 
+ravished: rauish'd ravish'd ravisht 
+gown: gowne 
+were: weare wer wert wast 
+heir: heire heyr heyre 
+blanks: blankes 
+themselves: themselvs themselues themselfes 
+ask: aske 
+stunk: stunke 
+fine: vine faine vyne 
+coffined: coffin'd 
+inventory: inuentory 
+parcels: parsels parcells 
+stool: stoole 
+blood: bloud 
+leave: leav leaue 
+meal: meale 
+turn: turne 
+stark: starke 
+round-back: round-backe 
+corvino: coruino 
+visit: visite visitt 
+run: runne runn 
+mad: madde madd 
+bear: beare 
+witness: witnesse 
+kissed: kist kiss'd 
+flowed: flow'd 
+oils: oyles 
+offensive: offensiue 
+savours: sauors 
+jove: iove 
+invent: inuent 
+guards: guardes 
+jealous: iealous 
+do: dooe doo dost doe 
+hark: heark harkee hearke 
+suits: sutes 
+several: severall seuerall 
+valets: vellets 
+thread: thred 
+spun: spunne 
+linen: linnen 
+damask: damasske 
+bolsters: boulsters 
+busy: busie 
+eyes: eies eyne eys 
+bequeathed: bequeath'd bequeth'd 
+gasp: gaspe 
+dumb: dumbe 
+faints: faintes 
+swoon: swoune 
+glazen eyes: glazen-eies 
+reached: reach'd reacht 
+despair: despaire dispaire dispair 
+thrown: throwne 
+agate: agat 
+perfumed: perfum'd 
+box: boxe 
+leisure: leizure leasure 
+fairer: fayrer 
+answer: answear answere 
+fairly: fairely 
+looks: lookes looketh 
+offered: offer'd offerd 
+madams: madames 
+maintenance: maintaynance 
+enough: inough anough ynough 
+melancholic: melancholick melancholique 
+ass: asse 
+declared: declard declar'd 
+terms: termes tearmes 
+thank: thanke thonke thnk 
+works: worketh workes 
+suffices: sufficeth 
+villainy: villany 
+cozened: cosen'd 
+covetous: couetous 
+legs: legges leggs 
+snuffed: snuft 
+grovelling: grou'ling graveling 
+hired: hir'd 
+professed: profest profess'd 
+perjured: periur'd perjur'd 
+yourself: your-self you zell your selfe your self youselfe yourselfe 
+stink: stinke 
+croak: croake 
+syllable: sillable 
+faithful: faithfull faythfull 
+constancy: constancie 
+cry: crie crye 
+reverend: reuerend 
+grieved: grieu'd griev'd greiu'd 
+defeat: defeate 
+deserving: deseruing 
+travails: trauailes 
+observed: observ'd obseru'd 
+easy: easie 
+conceive: conceave conceiue 
+young: yong yung 
+costive: costiue 
+eat: eate 
+lattice: lettice 
+transform: transforme 
+habit: habet habite 
+walk: walke walketh 
+seen: seene 
+recovery: recoveri recoverie recouery 
+recover: recouer 
+meet: meete 
+can: can'st canst 
+brain: braine 
+fox: foxe 
+cursed: curst curs'd 
+disguised: disguis'd 
+it were: 'twere twere 
+adventures: aduentures 
+gulled: guld 
+registered: registred 
+warm: warme 
+fair: faire fayre fayr vaire 
+business: business bus'ness businesse busines bussiness busisness buseness 
+weighty: waighty 
+affairs: affayrs affayres effaires affaires 
+affair: affaire affayr 
+sausages: sauseges 
+knows: knoweth knowes 
+return: retourne returne 
+deigns: deignes 
+crave: craue 
+chanced: chanc'd 
+unkind: vnkinde 
+twixt: 'twixt 
+apology: apologie 
+arrived: arriv'd arriu'd arrive'd 'arrived arriued arived arrivd ariv'd 
+spy: spye spie 
+signed: sign'd 
+alas: 'las alack alasse alass 
+essays: essaies essayes 
+convey: conuay convay 
+frail: frayle 
+talked: talk'd 
+ne'er: ne'r nere 
+sudden: sodaine suddain 
+engine: ingine 
+politic: politick politique 
+endure: indure 
+opted: apted 
+tortoise: tortoyse 
+wives: wives' wiues 
+burn: burne 
+mark: marke 
+jump: iumpe 
+creeps: creepes 
+creep: creepe 
+guts: gutts 
+further: furder 
+so: 'so soe zo soo sho 
+fearful: fearefull fearfull 
+project: proiect 
+prepared: prepar'd 
+sorry: sorie sorrey sory 
+term: terme tearm 
+gazette: gazetti 
+physic: phisicke physicke physick 
+ends: endeth 
+retirement: retyrednesse retiredness 
+prevents: preventeth 
+fetches: fetcheth 
+means: meanes meaneth meane 
+contemns: contemneth 
+often: oft ofttimes 
+scorns: scorneth 
+innocence: innocency 
+loads: loadeth 
+changes: changeth 
+others: others' 
+forces: forceth forcess 
+precedence: precedency 
+magnifies: magnifieth 
+approaches: approacheth 
+frequents: frequenteth 
+suspects: suspecteth 
+tramples: trampleth 
+ballasted: ballaced 
+heroic: heroick heroical 
+jailers: gaolers goalers 
+challenges: challengeth 
+redoubles: redoubleth 
+duke: duk dvke 
+royal: royall 
+lecher: letcher 
+grey-haired: gray hayrde 
+son: fonne sonne sonn 
+steeped: steept 
+he: hee 'he 'a 
+evil: colts-evill evill euill 
+duchess: step-dutchesse dutchesse duchess' duchesse dutchess 
+excellent: excelent exlent 
+marrowless: marrow-lesse 
+infernal: infernall 
+veins: veynes 
+dry: drye 
+parched: parcht 
+juiceless: iuicelesse 
+luxury: luxur 
+live: liue liv 
+riot: ryot 
+turns: turnes 
+poisoned: poyson'd poysoned 
+love: lovest loue lov'st louest 
+pointed: -pointed 
+unsightly: vnsightly 
+it was: '-'twas 'twas twas 
+far: furr farre farr 
+artificial: artificiall 
+woman's: womans 
+uprightest: vprightest 
+sin: sinne synne 
+custom: custome 
+kiss: kisse 
+fifty: fiftie 
+consumed: consumde consum'd 
+suit: sute 
+lust: -lust 
+lustful: lust-full 
+outbid: out-bid 
+vengeance: vengence 
+tenant: tennant 
+unpaid: vnpayd 
+revenge: reuenge 
+hitherto: hetherto 
+advance: aduance 
+folks: folkes folks' 
+three-plied: three-pilde 
+off: of 
+greatness: greatnesse 
+wizard: vizard 
+bring: bringst 
+braver: brauer 
+prithee: prythee pree-thee prethee pr'ythee pri'thee 
+scabbard: scabberd 
+prove: proue prooue prov 
+is it: ist is't 
+taste: tast 
+duke's: dukes 
+it is: tis 'tis 
+marvel: maruaile marvell 
+shoved: shooud 
+guess: gesse gues guesse geese 
+coat: coate short-coate 
+keeps: keepeth keepes keips 
+evening: ev'ning euening eevning eveninge 
+enquired: enquird enquir'd 
+unhusk: vnhuske 
+conjuring: coniuring 
+seek: seeke 
+disgraced: disgracst 
+grooms: groomes 
+displaced: displacst 
+stepmother's: step-mothers 
+nuptials: nuptialls 
+coined: coynd cain'd coyned 
+contained: contain'd containd conteined contaynd 
+fly: fli flie 
+featured: featurde 
+proportioned: proportiond 
+though: tho thofe thoughe thowgh tho' 
+unsound: vnsound 
+meets: meetes 
+dotes: doats doates 
+you've: y'aue 
+i'll: i'le ile 
+swear: sweare 
+knave: knaue 
+at the: a'th 
+in the: ith ith' i'th i'th' 
+smallest: smallst 
+advantage: aduantage 
+mole: moale 
+heave: heaue 
+coin: quoyne 
+they will: they'le 
+sex: sexe 
+belief: beleife beleefe 
+youngest: yongest 
+religious: relligious 
+deserves: deserveth deserues 
+sentenced: sentenc'd 
+laws: lawes 
+travail: trauaile 
+does: do'es dos dooeth do's doth 
+father's: vather's fathers 
+unnaturally: vnnaturally 
+compelled: compeld compell'd 
+lived: liu'd liv'd liued 
+deject: deiect 
+too: to toe' 
+smothered: smotherd smother'd 
+died: dyed dy'd 
+nobleman's: noblemans noblemen's 
+midnight: mid-night 
+in faith: yfaith ifaith i'faith 
+you'll: youle you'le 
+honours: honors 
+forehead: for-head fore-head 
+envious: enuious envyous 
+us: vs 
+tombs: toombes 
+seem: seeme 
+lives: liv's liues 
+proclaim: proclaime 
+loud: lowd 
+spoken: spoke 
+gravity: grauity 
+tomb: toombe 
+reproach: reproch 
+disembowelled: boweld 
+corpse: corps 
+seared: sear'd seard 
+thin: seare 
+cloths: clothes 
+break: breake 
+for it: for't 
+sentence: sentence 
+doom: doome dome 
+gracious: gratious 
+merciful: mercifull 
+trespass: trespasse trespas 
+will: uill wull wil vill 
+fall: fal 
+soon: soone 
+pity: pitie pitty pittie 
+it will: twill 'twill 
+unpleasant: vnpleasant 
+judge's: iudges 
+palate: palat pallat 
+gilded: gilt guilded 
+fairest: vairest fayrest 
+washed: wash'd wash't washt 
+uglier: ouglier 
+relentless: relentlesse 
+fruitless: fruitlesse 
+metal: -mettall 
+impartial: impartiall 
+unclean: vncleane 
+antonio's: antonioes 
+moved: mou'd movd mov'd 
+to it: toot to't 
+move: moue 
+jest: iest 
+made: madest mad 
+i'd: ide i'de 
+ladies: ladys ladies' ladis ladyes 
+spread: spred 
+tongues: tongs tungs toungs 
+judgement: iudgement 
+she is: shees 
+ordained: ordaynd ordain'd 
+ceased: ceast ceas'd 
+kept: keept 
+steals: steales 
+lawyer's: lawyers 
+cruel: cruell cruil 
+wise: -wise 
+law: lawe 
+grown: growne 
+subtle: subtill subtile subtil 
+them: ym em 'um um 'em 
+old cool: old-coole 
+confirmed: confirm'd confirmd confirmde 
+irrevocable: irreuocable 
+tomorrow: to morrow 
+on it: ont on't 
+mean time: meane time 
+we'll: wee'le weele 
+delayed: delayd delay'd 
+deferred: deferr'd deferd 
+hours: howers houres 
+was it: was't 
+known: knowne 
+mild: milde 
+withered: witherd 
+loathed: loathd 
+meat: meate 
+sleep: slape sleepe 
+child: childe 
+dearest: deerest 
+foot: fot foote voote 
+thorny: thornie 
+loves: loues loveth 
+swelled: sweld swell'd 
+jewels: iewells iewels 
+kind: coind kinde 
+jewel: iewell iewel 
+quivers: quiuers 
+ear: eare 
+master's: maisters maister's 
+chillness: chilnesse 
+vain: vaine 
+he's: ha's hee's 
+spied: spide 
+duty: dutie duety 
+you'd: you'de youde youd 
+ceremony: ceremonie 
+has: ha's h'as haue hath 
+fools: vooles fooles 
+you are: th'art 
+falsely: falsly 
+i'm: im ime i'me 
+uncertain: incertain vncertaine uncertaine 
+maybe: may be 
+groom: groome 
+at: 'ath att 
+shrewd: shrowd 
+suspicion: suspition 
+windows: windowes 
+afoot: a foote a-foot 
+rode: rid 
+hat: hatt 
+signs: signes 
+barber's: barbers 
+basins: basons 
+on horseback: a horse back 
+thou art: thou'art 
+firm: firme 
+mind: minde 
+injury: iniurie iniury 
+dukedom's: duke-doomes 
+slave: slaue 
+dropped: dropp'd dropt drop'd 
+equal: equall eaquel 
+upon it: vppon't upon't vpon't 
+revenged: reuenged reveng'd 
+womb: wombe 
+thief: theefe tief 
+seventh: seauenth 
+commandment: commandement 
+unbribed: vnbribed 
+everlasting: euerlasting 
+hot-backed: hot-backt 
+wrapped: wrap'd rapt wrapd wrap't wrapt 
+foul: foule 
+venial: veniall 
+heraldry: herauldrie 
+did: dist didst did'st 
+deep: deipe deepe 
+uttering: vttering 
+whispering: whispring 
+withdrawing: with-drawing 
+sentinel: centinell 
+stolen: stollen stolne 
+feel: feele 
+stepmother: step-mother 
+sons: sonnes sonns 
+sown: sowne 
+lose: loose 
+days: dayes daies 
+brow: browe 
+bastardy: bastardie 
+bonhomme: bonham 
+defendants: defendents 
+choose: chuse 
+month: moneth moonth mounth 
+premises: premisses 
+quote: quod 
+ration: ratione 
+consular: consulere 
+atom: autem 
+magic: magis 
+confessed: confect confest confess'd 
+commonality: commonalty 
+joined: join'd joyned joyn'd 
+defendant: defendent 
+graduates: graduats 
+paul's: pauls 
+diocese: diocess dioces 
+guardians: gardians 
+come: commin com coom 
+straddling: stradling 
+jointure: iointure joynture 
+sergeant: sargeant serjeant 
+proactive: practive 
+applies: applyes 
+privilege: priviledge 
+dost: docti do'st 
+privileges: priviledges 
+divinity: divinty 
+bachelors: batchelors batchellors 
+bachelor: batchelor 
+publicly: publickly publiquely 
+progression: progressione 
+showing: shewing 
+punishes: punisheth 
+empiric: empirick emperick 
+hilary: hillary 
+crook: crooke 
+grant: grat grantee 
+enclose: inclose 
+forest: forrest foresta 
+forests: forrests 
+arbitrament: arbitrement 
+tie: tye 
+cattle: cattles cattel cattell catle 
+posteriors: posteriores 
+contraries: contrarias 
+relied: relyed 
+done: donee don donies doan 
+descent: desc³t discent 
+virus: verus 
+brave: breve braue 
+passes: passeth 
+fits: fitts fitz 
+forester: forrester 
+enclosure: inclosure 
+among: amongst amonge 
+pitiful: pittiful pitifull 
+diverse: diuers 
+tragic: tragicall tragick tragicke 
+all: al 
+humanity: humanitie 
+merciless: mercilesse 
+guernsey: garnsey 
+guillemine: guellemine 
+story: storry storie 
+necessary: neeessary necessarie necesery necesary 
+original: originall 
+town: towne toune 
+peter's: peters 
+cupboard: cubbord 
+conveyed: convey'd conveid conueied conveighed 
+immediately: imediatly imediately immediatelie imidiatly immediatly 
+else: elce els 
+truth: trueth troth 
+nevertheless: neuerthelesse neverthelesse 
+gave: gaue 
+moreover: moreouer moreoever 
+testifies: testifieth 
+king's: kings 
+being: beinge being beeing 
+justices: iustices 
+griefs: griefes 
+amiss: amisse 
+katherine: katherin katharine 
+vessel: vessell 
+especially: expecially 
+moveable: moueable 
+ministered: ministred 
+etc: atk &c 
+fifth: 5. fift 
+neighbours: neighbors 
+thieves: theeves theeues 
+truly: trulie truely 
+untrue: vntrue 
+inquiry: inquirie 
+always: alway alwaies allways allwayes alwayes 
+saving: sauing 
+commandments: commandements 
+trial: tryal triall tryall 
+verdict: verdit 
+adjudged: adiudged adjudg'd 
+attainted: atteinted 
+pillory: pillorie 
+coming: comming comeing cooming coming 
+tenor: tenour 
+guernseymen: garnseymen 
+tongue: tung tong 
+proved: prooued prout prov'd proued 
+cleared: cleered clear'd 
+extremity: extreamitie 
+prisoners: prisoneers 
+bloody: bloudy 
+hands: handes 
+above: aboov aboue 
+whereby: wherby whby wreby 
+things: thinges 
+bailiffs: bailiffes bailiff's 
+pertain: pertaine 
+clergy: clergie 
+wrote: writt wrot writ wrott 
+dean: deane 
+jurisdiction: iurisdiction 
+pleases: pleaseth 
+manner: maner 
+criminal: criminall 
+condemning: contemning 
+mass: masse 
+sovereign: soueraigne souraigne soveraigne soveraign 
+whereof: wherof 
+we: wee 
+spiritual: spirituall 
+briefly: briefely 
+pertained: perteined 
+recommending: recomending 
+pertains: pertaineth 
+july: iuly julii 
+convented: conuented 
+until: vntill vntil untill 
+accomplices: complices 
+bailiff: bailiffe baliffe 
+heretics: hereticks heretickes 
+whereupon: wherupon 
+curates: curats 
+severally: seuerally 
+olier: elyer elier 
+devicke: deuick 
+finer: fener 
+deliver: deliuer 
+seal: seale 
+aforesaid: afiresaid 
+majesties: maiesties 
+entirely: intirely 
+subjects: subiects 
+john: iohn 
+merchant: marchant marchaunt 
+judged: judg'd iudged 
+movables: mooueables 
+approved: approued approv'd approoued 
+drink: drinke 
+storms: stormes 
+company: campanie companie cumpany coompany compeigne coompani compaign campany companye 
+ye: yee 
+very: ver verree verry verie 
+bade: bad 
+back: backe 
+advertise: aduertise 
+catholic: catholick catholike 
+instructor: instructer 
+err: erre 
+naughty: naughtie 
+housewife: huswife 
+heresy: heresie 
+company's: companies 
+christ's: christs 
+sirs: syrs 
+wrist: wrest 
+cross: crosse croce 
+sinews: sinewes 
+cracked: crackt 
+mistress: mistriss mistres mastris misstris misstriss mistris mistresse 
+maid: maide 'maid 
+salve: salue 
+tyranny: tyrranie 
+said: sei'd saidst sayd sed saide quoth 
+why: whie 'why 
+rejoice: reioice rejoce rejoyce 
+violently: violentlie 
+words: wordes 
+quietly: quietlie 
+feet: feete 
+told: toldst tauld tolde tould 
+enjoined: enjoin'd injoyn'd 
+skills: skilless 
+in: jn i' 
+aye: ay 
+in it: int in't 
+drowned: drown'd 
+justly: justle 
+debauched: debauch'd deboshed debaucht 
+in his: in's 
+dare: darest dar'st 
+may: mayst may'st mayest maist 
+of: fo off o' 
+weasand: wezand 
+surpasses: surpasseth 
+greatest: great'st 
+make: makest mak 
+take it: take't 
+afraid: affrayd afeard afrayd afrayed fraid affraid 
+tangling: twangling 
+liken: lakin 
+attached: attach'd 
+thoroughly: throughly thorowly 
+oppressed: opprest oprest oppress'd 
+vanished: vanish'd 
+will it: will't 
+amongst: amongest 'mongst amoungst 
+tempered: temper'd 
+messy: massy 
+requite: requit 
+alonzo: alonso 
+performed: perform'd 
+muddied: mudded 
+gins: gans 'gins gens 
+phoebus: phoebus' 
+most frantic: frantic'st 
+open: ope 
+thou: th' 
+loses: loseth locis 
+tonight: to-night 
+venture: venter 
+causes: causeth 
+dislike: disleek 
+blessed: blest bless'd 
+everyone: one ev'ry one 
+companion: fere campania 
+mouthed: -mouthed 
+eva's: evahs 
+lawful: lawfull 
+provide: prouide 
+mercy: mercie marcia 
+avoid: avoyde avoyd auoide 
+solitary: solitarie 
+converse: conuerse convers 
+withal: withall 
+form: forme 
+heavy: heavie heauy heavey 
+imperfect: vnperfect 
+united: vnited 
+providing: prouiding 
+sovereignty: soveraignty soueraignety 
+serviceable: seruiceable servicable 
+worthiness: worthinesse 
+god's: gods 
+moving: mouing 
+thereunto: therevnto 
+uttered: vttered utter'd 
+jesus: iesus 'jesus 
+apparently: apparantly apparintly 
+unite: vnite 
+dual: duall 
+burden: burthen 
+excellence: excellencie excellency 
+canopy: canopie 
+objected: obiected 
+satan's: sathans 
+objections: obiections 
+satan: sathan 
+crystal: cristall chrystal khrystall 
+glass: glasse 
+receives: receaves receiues 
+crack: cracke 
+parallel: paralell parralel 
+motive: motiue 
+plainly: plainely 
+hereby: heereby 
+attain: attayne attaine 
+reproved: reproued 
+infidelity: infidelitie 
+believing: beleeuing beleeveing 
+credit: credite 
+eve: eue 
+tread: treade 
+restrain: restraine 
+maker's: makers 
+injunction: iniunction 
+bellows: bellowes 
+careful: carefull 
+avoided: auoyded avoyded 
+blown: blowne 
+served: serued serv'd servd 
+afterwards: afterwardes afterward efterwards 
+nakedness: nakednesse 
+perceived: perceiued perceiv'd 
+integrity: integritie 
+unable: vnable 
+deprivation: depriuation 
+received: 'received receaved receiv'd recieved recived receaued recd receivd receiued 
+active: actiue 
+towards: towardes 
+sauce: sawce 
+sourness: sowrenesse 
+exceed: exceede 
+seed: seede 
+serpent's: serpents 
+saviour: sauiour 
+fullness: fullnesse fulnes fulness 
+equivalent: equiualent 
+affirms: affirmes 
+objection: obiection 
+gives: giueth giveth giues 
+understand: vnderstand 
+primary: primarie 
+transgressor: transgressour 
+positive: positiue 
+speaks: speakes 
+corinthians': corinths 
+persecutors: persecuters 
+deprive: depriue 
+either: eyther 
+advises: aduiseth 
+curb: curbe 
+adversaries: aduersaries 
+writes: writeth 
+interrogatively: interrogatiuely 
+enigmatical: enigmaticall 
+upright: vpright 
+held: holden 
+removed: removd remooued remoued remov'd 
+shins: shinnes 
+proceed: proceede 
+task: taske 
+observe: observ obserue 
+material: materiall 
+formal: formall 
+final: finall 
+six: sixed sixe 
+days': dayes 
+metonomy: metonimie 
+workman: workeman 
+worthy: worthie 
+fountain: fountaine 
+propriety: proprietie 
+inferior: inferiour 
+superior: superiour 
+near: neere neer neir neare 
+jointly: iointly 
+subjection: subiection 
+neither: neyther 
+fowls: fowles foules 
+air: aire aier ayr ayre a-year ayer 
+object: obiect 
+gross: grosse 
+skin: skinne 
+brief: briefe 
+external: externall 
+internal: internall 
+glorify: glorifie 
+collateral: collaterall 
+using: useing vsing 
+body: bodie hody 
+praises: prayses 
+council: concil councel councell countil 
+any: enye anie ony 
+listened: listned 
+counselled: councelled 
+should: shou'dst shoul should'st shd shou'd shoulde shold shud 
+ability: abilitie abillitie 
+service: seruice 
+servants: seruants sharvants 
+widow: widdow 
+treasury: treasurie 
+sanctuary: sanctuarie 
+crest: crist crista 
+employ: imploy 
+glory: glorie 
+domestic: domestick domesticall 
+yokefellows: yoake-fellowes 
+sustain: sustayne 
+senseless: sensless senselesse 
+eggs: egges 
+receive: receaue receave recieve receiv 'receive receiue reseave reciev 
+harm: harme 
+cock: cocke 
+helps: helpes 
+cockerel: cockrell 
+endanger: indanger 
+nobody: body 
+everybody: ev'ry body  every body every body every-body 
+mere: meer meere meare 
+separable: seperable 
+humility: humilitie 
+mixed: mixt mix'd 
+philosophical: philosophicall 
+guiltiness: guiltinesse 
+maintain: maintaine 
+souls: soules soals 
+st.: s. saint 
+express: expressa expresse expreis exprese expres 
+dark: darke 
+concerns: concernes 
+nearer: neerer 
+thankful: thankfull 
+tolled: told 
+believe: beleeve beleiue beleve lieve belleue believ beleeue beleive belive 
+grows: groweth growes 
+scarce: scarse 
+dwelling-house: dwelling house 
+dwells: dwelleth dwels 
+kennel: kennell 
+land-water: water 
+saltiness: saltnesse saltness 
+handful: handfull 
+peck: pecke 
+rubbish: rubbidge 
+cloak: clocke 
+counsel: counsell cousel connsell counsel counsaile 
+immortal: immortall 
+vegetation: vegitation 
+mother-in-law: mother in law 
+natural: naturall 
+profane: prophane 
+mollify: mollifie 
+myself: my zell my self myselfe my selfe 
+problem: probleme 
+would: wouldest would'st wuld wou'd wud woulde wouldst woolde wad woould woud wood wou'dst 
+need: needest 
+admitst: admittest 
+ceremonial: ceremoniall 
+satisfy: sattisfye satisfie satisfye 
+over-full: overfull 
+prays: prayes praies 
+says: saies sayes saith zays 
+compliment: complement 
+call: callest callst 
+egyptians: aegyptians 
+school: schoole 
+to-night: to night 
+slain: slayne slaine 
+angel: angell 
+remain: remaine 
+weakness: weaknes weaknesse 
+gideon: gedeon 
+zimri: zimrie 
+sins: sinnes sinneth 
+whenever: whensoever whene'er 
+jews: jewes 
+temptations: tentations 
+adds: addes 
+expression: expressing 
+plural: plurall 
+misery: miserie 
+physician: phisitian physitian 
+present: presentest 
+overrun: over runne 
+born: borne 
+mud walls: mud-walls 
+mouldered: moldered 
+behalf: behalfe 
+lack: lacke 
+afforded: affoorded 
+dignity: dignitie 
+joyful: joyfull joifull 
+entering: entring 
+society: societie 
+human: humane 
+hate: hatest 
+temporary: temporarie 
+eternity: eternitie 
+entire: intier intire 
+physicians: physicions phisitians physitians 
+stormy: stormie 
+maturity: maturitie 
+irregularity: irregularitie 
+july flowers: july-flowers 
+january: januarie janry 
+autumn: autumne autum 
+stick: sticke 
+ninth: nineth 
+delivery: deliverie 
+liberty: libertie liberte 
+empress: empress' emperess 
+killed: killd kill'd 
+confined: confin'd confinde 
+contrived: contriv'd 
+tyrant: tyranne 
+asked: ask'd ask't askt askd 
+circled: circl'd 
+bondsman: bondman 
+loved: lov'd lou'd loued 
+redeemed: redeem'd 
+paris: paris' 
+forced: foc'd forcet forc'd 
+kneeled: kneel'd 
+might: mightst 
+betrayed: betray'd 
+proscribed: proscrib'd 
+marked: mark'd 
+armed: arm'd 
+where is: where's 
+foretelling: fortelling 
+assured: assurd assur'd 
+devoured: devour'd 
+impostor: imposter 
+unmoved: vnmou'd unmov'd 
+styled: stiled styl'd 
+condemned: condemd condemn'd condemnd comdemn'd condemed 
+subdued: subdu'd sub-du'd 
+opened: open'd 
+appeared: apear'd appeard appeare'd appear'd 
+staggered: stagger'd 
+determined: determin'd determind' 
+waked: wak'd 
+bathed: bath'd 
+deprived: depriv'd deprivd 
+robbed: robb'd rob'd 
+disarmed: disarm'd 
+however: howe'er 
+pinioned: pinion'd 
+dragged: drag'd dragg'd 
+raised: rays'd rais'd raisd 
+smeared: smear'd 
+scattered: scatterd scatter'd 
+quenched: quench'd 
+followed: follow'd followd 
+incensed: incens'd 
+laboured: labour'd labored 
+famished: famish'd 
+seized: seised seiz'd 
+altered: alter'd alterd 
+compassed: compass'd 
+conceived: conceiv'd 
+slow-paced: slow-pac'd 
+cursors: coursers 
+happened: happend happen'd happned hapned 
+donation: donative 
+feared: fear'd 
+enlarged: enlarg'd inlarged 
+concealed: conceald conceal'd 
+true: trve 
+hippolito: hipolito 
+usually: usualy vsually 
+produces: produceth 
+overthrowing: ouerthrowing 
+understanding: vnderstanding 
+seizes: seazeth 
+event: euent 
+undertake: vndertake 
+wars: warrs warres 
+aversions: euersions 
+ruins: ruines 
+diverted: diuerted 
+displayed: display'd displaied 
+subject: subiect 
+severe: seuere 
+conversation: conuersation 
+towns: townes 
+virtues: vertues 
+chief: cheif chiefe 
+nobleness: noblenesse noblenes 
+well: weel wel wll 
+advantaged: aduantaged 
+livia: liuia 
+surpass: surpasse 
+fifteen: fifteene fyfteen 
+sixteen: sixteene 
+suited: suted 
+sweetness: sweetenes sweetnesse 
+signor: signiour 
+hopeful: hopefull 
+favoured: favour'd favourd favored fauoured 
+convenience: conuenience conveniency 
+ruin: ruine 
+designs: designes 
+events: euents 
+judging: iudging 
+disdain: disdaine 
+unworthy: vnworthy 
+privacy: private ness priuacy 
+study: studdy studie 
+music: musicke musik musick 
+voice: voyce voicy 
+hieroglyphic: hieroglifique 
+seventeenth: seauenteenth 
+sense: sence 
+discrete: discreet 
+unpleasing: vnpleasing 
+incapable: uncapable vncapable 
+anything: any thing aniething 
+virtuous: vertuous 
+impossible: vnpossible 
+overcome: ouercome 
+pain: paine 
+unprofitable: vnprofitable 
+advertised: aduertised 
+marriage: mariage 
+wont: woont 
+uncle: vnckle vncle unkle 
+five: fiue 
+learn: learne 
+horsemanship: horsmanship 
+fencing: fensing 
+advise: advize aduise 
+settling: setling 
+dress: dresse 
+graceful: gracefull 
+forthwith: foorthwith 
+niece: neece neice 
+indeed: yea indeede 'indeed 
+mutual: mutuall 
+esteem: esteeme 
+nearest: neerest 
+suiting: suting 
+lover: louer 
+approval: approofe 
+between: betwene betwen betweene 
+contain: contein containe 
+unmeasured: vnmeasured 
+retiredness: retirednesse 
+practice: practise 
+quickness: quicknesse 
+reciprocal: reciprocall 
+encouraged: encourag'd incouraged 
+thraldom: thraldome 
+maxim: maxime 
+judge: iudge judg 
+enforced: inforced 
+govern: gouerne 
+bar: barre 
+bosom: bosome 
+fail: fayle faile 
+observance: obseruance 
+remove: remooue remoue 
+approve: approoue 
+deity: deitie 
+captive: captiue 
+servant: sarvent seruant servan servent ser sarvant servt 
+vassal: vassall 
+devoted: deuoted 
+accompanied: accompannyed accompany'd accompanyed 
+unexpected: vnexpected 
+novelty: nouelty 
+doubtful: doubtfull 
+conformity: conformitie 
+yielding: yeelding 
+bashfulness: bashfulnesse 
+covers: couers 
+vicious: vitious 
+design: designe 
+shun: shunne 
+unhappy: unnappy vnhappy 
+observation: obseruation 
+ranks: rankes 
+most honest: honestest 
+inocent: innocent 
+dearer: deerer 
+nearness: neerenesse 
+boldness: bouldnesse boldnesse 
+try: trye trie 
+otherwise: otherways other wayes 
+preservation: preseruation 
+subtlety: subtiltie 
+extreme: extreame extream 
+refusal: refusall 
+losing: loosing 
+ecstasy: extasy ecstacy extacy 
+enterprise: enterprize 
+harmful: harmefull 
+divine: diuine 
+oh: a o 
+infinity: infinitie 
+privation: priuation 
+rashness: rashnes rashnesse 
+affinity: affinitie 
+dispense: dispens dispence 
+persuade: perswade 
+enjoy: inioye injoy enioy 
+unrest: vnrest 
+struggled: strugled 
+unfortunate: vnfortunate vnfortunat 
+war: warr warre 
+cruelty: crueltie 
+offering: offring 
+hourly: hourely 
+footman: foote-man 
+employments: imployments 
+vows: vowes 
+never-ending: neuer ending 
+uneasy: vneasie uneasie 
+model: modell 
+devotion: devotione deuotion divotion 
+governing: gouerning 
+yield: yeild yeelde yeeld 
+finds: findes 
+perpetual: perpetuall 
+persuasion: perswasion 
+union: vnion 
+complain: complaine 
+address: addresse addresss 
+condemn: condemne 
+grievings: grieuings 
+unfitness: vnfitnesse 
+unjust: vniust 
+endeavour: indeauour endeavor endevour 
+conjure: coniure 
+utmost: vtmost uttmost 
+entice: intice 
+entreat: intreat 
+suddenly: suddainly sodainely sodainly 
+fantasy: fantasie 
+leaving: leauing 
+nun: nunne 
+sympathy: simpathie 
+extraordinary: extrordinary extreordinary extraordinarye extraordinarie extraordinari 
+amity: amitie 
+thirty-five: thirtie fiue 
+strictness: strictnesse 
+sat: satt sate 
+certainly: certes certainely 
+heed: heede 
+drug: drugge 
+avail: auaile 
+heal: heale 
+advice: advices aduice 
+inviolable: inuiolable 
+despise: contemn dispise 
+veiled: vailed 
+conversant: conuersant 
+dear: deare deere 
+endangered: endanger'd indangered 
+your selves: your selues 
+invention: inuention 
+understandings: vnderstandings 
+distrustful: distrustfull 
+repair: repaire 
+embrace: imbrace 
+unuseful: vnusefull unusefull 
+relief: reliefe releif releife 
+least: lest 
+conceal: conceale 
+reverence: reuerence 
+despite: despight 
+labyrinth: laborinth 
+you're: y'are thou'rt your 
+dullness: dulness 
+word: wortd worde 
+and it: an't 
+owe: ow owest 
+corns: silly-cornes cerns 
+by: bye bu bv 
+with: warh wythe uith wi' -with wth 
+nos: ness 
+her: hir -her 
+you have: th'ast 
+gabble: gabblest 
+kale's: kala's 
+spoke: spake bespake 
+unfaithful: ufaithful 
+while: whiles whyle wilst 
+he has: 'has 
+do you do: d'ee 
+stomach: stomack stomacke 
+daughter: daugher dauther 
+do ye: d'ee d'ye 
+are: ar 
+emptied: emptyed 
+some: som soom 
+voices: voyces 
+stock: stok stocke 
+no more: noemore 
+choice: choyce chois 
+weather: wether 
+sometime: soomtime 
+continues: continueth 
+gone: gonne gon 
+eleventh: elevnth 
+perceives: perceiveth 
+fledged: fledg 
+begins: beginneth 
+mournful: moornfull moornful 
+vouchsafe: -vouchsafe 
+princess's: princes 
+arises: ariseth 
+although: altho althowgh altho' allthough 
+night's: nights 
+denial: deniall denyall 
+here: heer heere 
+no: ne noe noy 
+composes: composeth 
+clefs: cliefs 
+mood: moode 
+odd: od 
+takes: taketh 
+rises: riseth 
+mode: moode 
+consists: consisteth 
+princess: princessa princes princesse 
+happily: haply 
+joins: joyns joyneth 
+full: ful 
+noise: noyes noys noyse 
+fourth: fowrth 
+interposes: interposeth 
+fill: fil 
+choir: qire 
+costs: costeth 
+grants: granteth 
+denies: denyeth 
+pause: paus 
+evenings: eevnings 
+please: pleas 
+most: moste 
+madrigal: madrigall 
+modes: moodes 
+sounds: soundes soundeth 
+doubling: dubbling 
+consorts: concords 
+harshness: harshnes 
+shows: sheweth shews 
+who: whoe which 
+comprising: comprizing 
+thought: thowght 
+prick: prik 
+dull: dul 
+miss: mis 
+monarchy: monarchie 
+sphere: spher 
+hearts: harts 
+power: pouer pow'r 
+mightiest: mighteest 
+restless: restles 
+curious: cureous 
+loyal: loyall 
+marchioness: marqese 
+infants: infantas 
+increased: encreased increasd increas'd 
+new: nue 
+cities: cittis 
+moan: mone 
+boon: boone 
+measures: measureth mesures 
+hold: holde haud 
+melody: melodi 
+somewhat: somwhat soomwhat 
+meinie: maini 
+thronging: throonging 
+another: anothers other an other 
+ceases: ceaseth 
+comes: cometh 
+hie: hye 
+lady: ladie ladi 
+country progresses: country-progreses 
+behind: behinde 
+troop: troope 
+guard: garde gard 
+both: bothe 
+breed: breede 
+honey: hony hoonni- hooni hoonni 
+stocks: stoks 
+summers: soomers 
+brought: browght brot 
+dead: ded 
+loath: lote loth 
+bassoon: bason 
+candlestick: candlestik 
+folds: foldes 
+notified: notifyed 
+false: fals 
+challenge: chalenge 
+cause: caus'd caus 
+fancy: fansy fancie phansy 
+permits: permitteth 
+whithersoever: whethersoever 
+property: properti 
+house: hous hause 
+thither: thether 
+new year: nue-yeeres-tide 
+partner's: partners 
+careless: careles carelesse 
+bees: bee's 
+summer: soommer soomer 
+cleansing: clensing 
+carry: carri carie 
+mother's: mothers 
+liquid: liqid 
+bottles: bottels 
+bellies: bellis 
+leer: leere 
+cells: cels 
+cell: cel 
+waxes: waxeth 
+thenceforth: thencefoorthe 
+purchase: purchas 
+foraging: forraging 
+uncovered: uncoovered 
+quickly: quicklie qikly 
+becomes: becoometh 
+live honey: live-hoonni 
+corn honey: corn-hoonni 
+stone honey: stone-hoonni 
+crystalline: khrystalline 
+virgin honey: virgin-hoonni 
+dross: dros 
+coarser: coorser 
+ordinary: ordinari 
+shoot: shoote 
+dew: dews -dews 
+sheer: sheere 
+whether: wheither 
+foil: foyl 
+flowers: flouers 
+infinite: infinit 
+variety: varietie varieti 
+trees: tree's 
+succeed: succeede 
+containing: conteining 
+sweets: sweetes 
+daisy: dazy 
+inasmuch: insomuch 
+gillyflower: gilliflouer 
+bear'-foot: bear-foote 
+green: greene 
+daffodil: daffadil 
+blackthorn: blakthorn 
+gooseberry: goosebery 
+wood-flower: wood-flouer 
+flourish: floorish 
+barberry: barberi barbery barbary 
+sycamore: sycomore 
+endures: endureth indures 
+flower: flouer 
+joints: joynts 
+how: hou 
+whatsoever: soever 
+spotted: -spotted 
+fumitory: fumitori 
+plantain: plantani 
+holm: holme 
+holly: holli 
+honeysuckle: hoonni- suckle 
+redweed: red-weede 
+turnip: turnep 
+bennett: bennet 
+sovereign-thyme: soveraigntyme 
+plane: plena 
+thyme: tyme 
+lasts: lasteth 
+grew: greew grewe 
+knapweed: knap-weede 
+flourishes: floorisheth 
+blackberry: blakbery 
+week: weke weeke 
+almighty: allmighty almightie 
+distil: destil 
+sun's: suns 
+thick: thik thicke 
+soft: zoft 
+bargain: bargaine 
+i will: chill chil 
+i have: chaue 
+mine: myne 
+i: che 
+fault: falt valt 
+i should: chud 
+bussed: buss't 
+cardinals: court-nolls cardinalls 
+see: zee 
+forsooth: vorzooth 
+foolish: voolish 
+pumpkin: pumpion 
+baked: bak'd 
+not: nay nat 
+countess: counteze 
+wish: wush 
+minstrel: munstrell 
+almost: aumost allmost 
+reparel: reparrell 
+richard: ruchard 
+at home: a whome 
+calls: cals 
+garvase: garuase 
+we will: we'l weele 
+such: zick 
+cabbage: cabbege 
+peeper: paiper 
+jug: iugg 
+gervase: geruase 
+fellow: vellow 
+buss: busse 
+for: vor vore 
+face: vace 
+feeze: veeze veize 
+sing: zing 
+pipe: paipe 
+thine: thyne 
+learned: learnd learn't learn'd 
+bless: blesse 
+can't: cant cont 
+1: che 
+aghast: agast 
+won't: wont wo'not 
+where: whare wheir wher 
+you will: youle 
+give me: gi'me 
+i am: cham 
+shall us: shall's 
+spokesman: spokes-man 
+say: sayest shay say'st zaist zay 
+thou wilt: thoult 
+have me: ha'me 
+should thou: shuds 
+fist: vist 
+against: 'gainst agaist forgainst gainst agaynst augst 
+welkin: wilkin 
+sooner: zooner soner 
+maul: maull 
+twain: twaine 
+midges: madges 
+fierce: veirce 
+sheep: zheepe 
+clapped: clapt 
+ignorant: ingrant 
+sings: zings 
+sung: zung 
+song: zong 
+abominable: bomination 
+fiddle: viddle 
+fetch: vetch 
+here is: heres 
+pray thee: prithee 
+shift: zhift 
+lean: leane 
+dowry: dowre 
+grieve: greiue 
+and: aud & und 
+troops: troups 
+charge: charg 
+druids: druyds 
+enrich: inrich 
+derive: deriue 
+peaceful: peacefull 
+poises: poizes 
+the head: th'head 
+bliss: blisse 
+spoil: spoile spoyle 
+reserving: reseruing 
+about: 'bout 
+slaves: slaues 
+command: commaund comand 
+wills: wils willes 
+kills: kells kils 
+middle: midle 
+whoever: whoeuer 
+for his: for's 
+foremost: formost 
+which: wch wich 
+counsels: concils counsells counsailes consels 
+prattling: pratling 
+breathe: breath 
+soldiers: souldiers 
+know: knowest know'st kno' knowe 
+tried: try'd tryed 
+tuned: tun'd 
+disordered: disordred disorderd disorder'd 
+savage: sauvage salvadge 
+untamed: vntam'd 
+wildness: wildnesse 
+understands: understandeth vnderstands 
+briton: breton britaine 
+post-haste: post-hast 
+pair: paire 
+adventure: aduenture 
+fool: foole 
+liveries: liueries 
+cavaliers: cavalliers caualliers 
+dwarfs: dwarfes 
+hour's: houres 
+signify: signifye signifie 
+don't: dan't do'nt dont 
+urge: vrge 
+he will: hee'le he'le 
+beforehand: aforehand 
+ambassador: embassadour embassador ambassadour 
+stir: stirre stirr 
+captain: capitaine captt capt captaine 
+druid: druyd 
+discover: discouer 
+rotor: retour 
+saved: sav'd sau'd 
+dispatched: dispatch't dispatcht dispatch'd 
+steal: steale 
+forestalled: forestall'd 
+love's: loues 
+chivalry: chiualry 
+mountain: mountaine 
+well-spread: welspread 
+turf: turfe 
+fastened: fasten'd fastned 
+quiver: quiuer 
+prince's: princes 
+safety: safetie safty 
+check: checke 
+authority: authoritie 
+dream: dreame 
+applied: applyed 
+jewish: iewish 
+tacitly: tacitely 
+history: historie 
+unlearnt: unlearned 
+engraft: ingraft 
+labour: labor 
+destined: destinate destin'd 
+paper: paper- 
+interpretation: interpretatione 
+lieges: laegis 
+endeavours: endeavors indeauours 
+poets: poets' 
+shown: shewed shewn 
+cognisance: cognizance 
+ancient: ancyent antient 
+adorn: adorne 
+wanting: awanting 
+confer: conferre 
+retain: retaine reteine 
+aims: aymes 
+harmless: harmelesse 
+lamp: lampe 
+enlarge: inlarge 
+scions: scienes 
+conferred: conferr'd 
+favourite: favorite favorita 
+youthful: youthfull 
+downright: downe-right 
+mental: mentall 
+exactness: exactnesse 
+zeal: zeale 
+seeds: seedes 
+goodness: goodnes goodnesse 
+expressed: expressd exprest express'd 
+feoffments: feffements 
+preparedness: preparednesse 
+becoming: becoming 
+retains: retaines 
+enabled: inabled 
+lump: lumpe 
+intervenings: interveynings 
+produced: produc't produc'd 
+lily: lilly lelia 
+octavio: octavia 
+virginia: uirginia 
+beamling=beam-lines: beamelings 
+won: wonne 
+gained: gain'd gayn'd gaind 
+majestic: majesticke majestick 
+imperial: imperiale imperiall 
+sovereignised: soveraigniz'd 
+strains: straynes straines 
+fairs: faires 
+foreign: forreigne foreigne forreign forrein foraign forraigne forein 
+seize: seaze 
+breasts: brests 
+doriclea: doryclea 
+quick: quicke 
+retaining: reteyning retayning 
+disesteem: disesteeme 
+repeat: repeate 
+chansonnettes: cantzonets 
+pen: penne 
+exercised: exercis'd 
+tax: taxe 
+rendering: rendring 
+charming: -charming 
+retained: reteined reteyned 
+accomplished: accomplish'd accomplish't 
+support: supportance 
+endowed: indowed endow'd 
+moral: morall 
+delightful: delightfull 
+watchful: watchfull 
+cheerful: cheerfull chearfull chearful cheerefull 
+expense: expence 
+filial: filiall 
+irreprovable: irreproveable 
+demeanour: demeanure 
+personal: personall 
+endowments: indowments 
+lyric: lyricke 
+surveyors: surveyers 
+skin-deep: skinne-deepe 
+rivals: rivels 
+fix: fixe 
+mainly: mainely 
+staid: stayd 
+aimed: aymed 
+joint: joind joynt 
+tenderness: tender -- ness tendernesse 
+aversion: aversenesse 
+rebated: rebaited 
+instance: instancy inst 
+estranged: estrang'd 
+bashful: bashfull 
+wear: weare 
+entertain: enterteyn entertaine 
+entertainment: entertainement intertainment 
+rhetoric: rhetorick 
+incongruous: dissorting 
+nuptial: nuptiall 
+retired: retir'd retyr'd retyred 
+lawn: lawne 
+free-bred: freebred 
+suitor: suiter 
+rejected: reiected 
+fails: faile 
+expectancy: expectance 
+weakly: weakely 
+feathered: feathred 
+sensual: sensuall 
+derived: deriv'd dreived 
+pen-feathered: penne-feather'd 
+epidemical: epidemicall 
+experienced: experienc'd 
+hare-brained: haire-brain'd 
+sprig: sprigge sprage spragge 
+ungenerous: ingenerous 
+unseemly: unseemely 
+addresses: addresseth 
+rustic: rusticke rustick 
+accosts: accoasteth 
+swainling: swaineling 
+gentlewoman: iantlewoman gentilewoman 
+snood: snude 
+wed: wad 
+awe: aw 
+vixen: vixon 
+blink: blenke 
+blithely: blithly 
+dawns: dawnes 
+slobber: slubber 
+syllabub: sillibub 
+babies: babbies 
+your: yaur yr yor ye'r 
+pick: picke 
+sheep-wash: sheepe-wash 
+bans: bance banes 
+spark: sparke 
+undo: vndoe undoe 
+join: joyn ioan 
+brook: brooke 
+shrieking: shriking 
+scowling: scouling 
+scolding: scoulding 
+rod: rodde 
+weak-fledged: weake-fledg'd 
+soon-rebated: soone-rebaited 
+white-livered: white-liver'd 
+uncivil: uncivill 
+gosling: gooseling 
+whose: whoes 
+boots: bootes 
+sir: syr sirra 
+early: earlie arley 
+dogs: doggs doges 
+fogs: foggs 
+steam: steame 
+get: zet gett 
+of the: o'th o'the ofthe 
+fit: fitt 
+schoolmaster: schoolemaster 
+gifts: guifts 
+licenced: licenc'd 
+urine: vrine 
+receipt: recait receit 
+wit: witt 
+hunt is: hunt's 
+secrecy: secresy secresie 
+to assure: t'assure 
+ladyship: ladyshippe la'yship ladiship ladieship 
+everlastingly: euerlastinglie 
+confirm: confirme 
+trained: traind train'd 
+maidenheads: maidenheades 
+plot: plott 
+privately: priuatlie 
+shall be: shalbe 
+restored: restor'd 
+curtains: curtaines 
+horsed: hors'd 
+promised: promissed promis'd promisd promiss'd 
+sets: setts 
+timorous: timerous 
+heavens: heauens heav'ns 
+undone: vndone 
+asleep: asleepe 
+blackamoor: blackamore 
+used: usd us'd vs'd 
+dreams: dreames 
+cordial: cordiall 
+blackamoors: blackamores 
+ravisher: rauisher 
+cried: cryed cry'd cryd 
+prevented: preuented 
+roan: rouen roane 
+nag: nagg 
+she has: shees 
+returned: return'd returnd 
+on the other: o't'other 
+petticoat: peticote 
+travailer: trauailer 
+travelled: traveled travell'd traueld 
+poetical: poeticall 
+egypt: egipt 
+equinoctial: equinoctiall 
+siv-like: siue=like 
+skins: skines skinns 
+eclipse: ecclipse 
+strives: striues 
+grass: grasse 
+presently: presentlie 
+fat: fatt 
+anatomy: anatomie anotomye 
+women's: womens 
+defiled: defil'd 
+boiled: boil'd boyled boild 
+roasted: rosted 
+burned: burn'd burnt 
+larks: larkes 
+shower: shewer 
+copy: coppy copie coppie 
+time: time' tyme 
+rheum: rhume 
+catharrs: catarrs 
+condensed: condens'd condens't 
+thronged: throng'd 
+navigable: nauigable 
+limb: limbe 
+forgot: forgat forgott 
+swim: swime 
+yet: yett 
+continual: continuall continuell 
+women: weomen woemen wom 
+mermaids: mermaides 
+chaste: chast 
+commit: committe comit comitt 
+improve: improv improue 
+commission: comission 
+colic: cholic collick colick colics cholick 
+friends: frends ffriends freinds friends' 
+deal: deale 
+forget: forgett forgit 
+miscarried: miscarryed miscarry'd miscaried 
+commended: comended 
+rural: rurall 
+their: theis theire ther 
+know it: know't 
+spirit: spiritt sperit 
+majors: maiors 
+rival: riuall 
+natured: natur'd 
+jury: eury 
+vocation: vacacion 
+concern: concerne 
+services: seruices 
+weary: aweary wearie wery 
+with thee: w'ee 
+happy: happie 
+joys: ioyes 
+cavalier: cavaleer cauallier 
+division: diuision 
+sow: sowe 
+let's: lett's 
+countryman: countreyman 
+cup: cupp 
+drank: dranke 
+do it: doo't do't 
+authentic: authentick 
+controls: controlls 
+commands: comaunds 
+nobility: nobilitie nobillity 
+boldly: boldlie 
+team: teame 
+gowns: gownes 
+hanged: hang't hang'd hangd 
+clean: cleane 
+walks: walkes 
+talks: talkes 
+motliest: madliest 
+midwives: midwiues 
+drowns: drownes 
+accommodated: accomodated 
+mushes: muches 
+peak: peake 
+star: starre 
+ponds: pondes 
+wits: witts 
+dined: dind din'd 
+lantern: lanterne lanthorn lanthern 
+sailor: sailer sayler 
+ultra: vltra 
+mines: mynes 
+settled: setled 
+it would: 'twou'd 'twould 
+the alter: th'alter 
+in the air: i'th'air 
+carcanet: carkanet 
+have paid: ha'paid 
+handkerchief: handkercher handkercheif 
+unlimited: unlimitted illimited 
+because: 'cause becaus 
+haven't: ha'not 
+of your: o'your 
+provoke: provok'st 
+do you: d'you d'ye 
+flowing: flowings 
+parliament: parliment parlament 
+access: accesse 
+success: successe 
+swayed: sway'd 
+incidental: incidentall 
+blameless: blamelesse 
+country's: countries 
+proposed: propos'd 
+trophy: trophey 
+considered: consider'd 
+reformed: reform'd 
+attained: attain'd 
+steep: steepe 
+realm: realme 
+reckoned: reckn'd reckon'd 
+praised: praysed prais'd prays'd 
+actual: actuall 
+endeavoured: indeavoured endeavored endeavour'd endeavor'd 
+impair: impaire 
+trivial: triviall 
+acquittal: acquittall 
+extolled: extroll'd extoll'd 
+reserved: reserv'd 
+covenant: cov'nant convenant 
+affirm: affirme 
+published: publish'd publisht publishd 
+called: cald cal'd ycleped calld yclept call'd 
+pleased: pleasd plased pleas'd 
+triennial: trienniall 
+haughtiness: hautinesse 
+counsellors: counsellours councellers 
+midst: midd'st 
+written: vritten writt'n writ 
+endured: endur'd 
+signified: signifi'd 
+barbaric: barbarick 
+stateliness: statelines 
+goths: gothes 
+persuades: perswades 
+democracy: democraty 
+established: establish'd establisht 
+wisdom: wisdome 
+signiories: sinioroes 
+aught: ought 
+yourselves: selves 
+excel: excell 
+profess: professe 
+uprightness: uprightnesse 
+partial: partiall 
+licensed: licenc't 
+pretences: pretenses 
+painful: paynfull painfull 
+licensing: licencing 
+prelates: prelats 
+expired: expir'd 
+whatever: what ever 
+suppressed: suppress'd suppresed supprest suppresst 
+primly: primely 
+concerning: concernment concerninge 
+books: bookes 
+demean: demeane 
+potency: potencie 
+vial: violl 
+efficacy: efficacie 
+dragon's: dragons 
+wariness: warinesse 
+destroys: destroyes 
+precious: pretious 
+embalmed: imbalm'd 
+treasured: treasur'd 
+seasoned: season'd 
+preserved: preservd preserv'd 
+stored: stor'd 
+martyrdom: martyrdome 
+elemental: elemantall 
+ethereal: ethereall etherial 
+slays: slaies 
+historical: historicall 
+caught: catch'd catcht catched 
+cared: car'd 
+atheistical: atheisticall 
+banished: banish'd banisht banishd 
+traduced: traduc'd 
+censured: censur'd 
+showed: show'd shew'd 
+voluptuousness: voluptiousnesse 
+cynic: cynick 
+questioned: question'd 
+excused: excus'd 
+chrysostom: chrysostome 
+crete: creet 
+surliness: surlinesse 
+museless: muselesse 
+disliked: dislik'd 
+laconic: laconock laconick 
+apophthegms: apothegms 
+strain: sterin straine 
+soldierly: souldierly 
+ballads: ballats 
+sort of: sort 
+roughness: roughnes 
+pontifical's: pontifick 
+augurs: augurs 
+flamens: flamins 
+stoic: stoick 
+ambassadors: embassadors embassadours ambassadours 
+senate: senat 
+dismiss: dismisse 
+attic: attick 
+babblers: bablers 
+sabine: sabin 
+admired: admir'd 
+borrowed: borrow'd 
+unbridled: unbridl'd 
+released: releas'd 
+punished: punish'd punisht 
+magistrate: magistrat magistracy 
+reckoning: reckning 
+satirical: satyricall satyrical 
+sharpness: sharpnesse 
+plainness: plainnesse plainnes 
+empire: empire 
+silenced: silenc't 
+examined: examin'd examind 
+councils: councels 
+heathen: heathen 
+plain: plaine playne 
+scrupled: scrupl'd 
+one's: anne's ones 
+political: politicall 
+fancied: fansied fancy'd 
+heretical: hereticall 
+wickliffe: wicklef 
+hus: husse 
+papal: papall 
+course: cours 
+tenth: 10. 
+engendering: engendring 
+perfected: perfeted 
+entrails: entralls 
+worse: wors 
+friars: friers fryars 
+husbands: housbands 
+remains: remaineth remaines 
+let: lett 
+room: roome 
+rhine: rhene 
+louysa's: louysas 
+promise: promisse promis promiss 
+repay: repaye 
+world: worlde 
+remembered: remember'd remembred remered 
+treaty: treatie 
+am: ame 
+unreasonable: vnreasonnable vnreasonable 
+revenues: reuenues 
+many: manie manny 
+sophy's: sophys sophies 
+journey: journy iourney jorney 
+favours: favers favoures fauours favors 
+affectionate: affectionat afectionat 
+weighting: wayting 
+aid: ayd 
+ladyship's: ladiships ladyships 
+fibre: febr 
+hindered: hendered hindred 
+allotted: alotted 
+opportunity: oppertunety oportunity oppertunity opportunitie 
+sure: shure 
+particular: perticular perticuler 
+real: reall 
+also: alsoe allso 
+tediousness: tediousnes tediousnesse 
+controversy: controversie 
+seven-night: se'ennight se'nnight sennight seuenight sevennight se'night 
+pane: paune 
+electric: electrice 
+quality: qualitie 
+dukedoms: dukedomes 
+orange: oring orenge 
+scotland: scotlande soctland 
+party: partye 
+openly: openlie 
+french: frensh 
+reverent: reuerent 
+fishwives: fishwiues 
+generosity: generositie 
+secretly: secretlie 
+set: sett 
+ratify: ratifie 
+pleads: pleades 
+lorraine: loraine lorrain 
+cousin: cousen coz cosen cosin cuz 
+usage: vsage 
+occasion: occation 
+rotterdam: roterdam roterdame 
+litre: lettre 
+earl: earle 
+fortnight: fournight fourtnight 
+weeks: weekes weak's 
+money: mony monie 
+dishonour: dishonnour dishonor 
+small: smalle smale 
+starve: starue 
+memory: memorie 
+without: uithout wtout 
+angry: angrie 
+obtained: obteined obtain'd obtianed obtayned 
+arrival: arrivall arivall 
+civilities: civillitys civilityes 
+religion: relligion 
+lies: lyes lyeth lieth 
+skilful: skilfull 
+blameable: blamable 
+eternal: eternall 
+nails: nayles 
+meant: ment 
+abilities: abillities abilityes 
+considerable: consyderable 
+tries: tryes 
+praising: praysing 
+promises: promisses 
+carrier: carryer 
+mondays: mundays 
+wednesdays: wednesdayes 
+hears: heareth heares 
+november: novemb novembr 
+surprise: surprize surprizall surprisall 
+aside: asyde 
+last: laste 
+dashed: dash'd dasht 
+spirits: spiritts 
+deem: deeme 
+mortals: mortalles 
+remedy: remedie 
+corporeal: corporeall 
+entanglement: intanglement 
+feasible: feasable 
+permit: permitt 
+sketched: sketch'd 
+impossibilities: impossibilityes 
+heidelberg: heidleberg 
+heartily: heartilie heartyly 
+assembly: assemblie 
+holland: hollande 
+shortly: shortlie 
+pleurisy: pleurisie pluresie 
+emperor's: emperours 
+freely: freelie 
+commonly: commonlie 
+executed: excecuted 
+fully: fullie 
+repetition: repitition 
+lisbon: lisbone lisbonne 
+parts: partes 
+consider: consyder 
+combustible: combustable 
+gospel: gospell 
+follies: follys 
+doctors: doctours 
+purgatory: purgatorie 
+april: aprill 
+digest: disgest 
+burns: burnes 
+encouragement: incouragment incouragement encouragment 
+nearly: neerly 
+unhappiness: unhappinesse 
+freedom: freedome 
+affectionately: affectionatly 
+latin: latine lattin 
+system: systeme 
+wicks: wecks 
+headache: headach 
+increase: encrease 
+closeness: closenesse 
+rubbed: rub'd rubb'd 
+vomit: vomitt 
+inclined: inclin'd 
+meals: meales 
+bigness: bignesse 
+walnut: walnutt 
+consul: consull 
+kindness: kindnesse kindess kindnes 
+september: septemb 
+occasioned: occasion'd occassioned 
+sadness: sadnesse 
+repaired: repair'd repayred 
+jesuits: jesuites 
+quartain: quartane 
+spew: spaw 
+surgery: chirurgery 
+october: octo octob 
+omit: omitt 
+shortness: shortnesse 
+endeared: endear'd 
+quinsy: squinancy quinzay 
+clysters: glysters glisters 
+desperate: desperat 
+vigilance: vigilancy 
+stairs: staires 
+thanks: thancks thankes 
+needless: needlesse 
+undergo: undergoe 
+sincerely: sincerly syncerly 
+apparel: apparell 
+ox: oxe 
+relics: reliques 
+failed: faild fayled fail'd 
+anvil: anuall anvill 
+december: decem decemb 
+cork: corke 
+sheriff: sheriffe 
+pulled: pull'd pul'd 
+household: houshold 
+edinburgh: edenburgh edinb edenborough 
+guilty: guiltie 
+robberies: roberys 
+kerr: ker karr 
+minister's: minester's 
+harrison: harrisen 
+jealousy: jealousie 
+reprieve: reprive 
+blair: blaire 
+matthew: mathew 
+concealing: consealing 
+gentleman's: gentlemens gentlemans gentlemen's 
+therein: therin 
+bandoleers: bandeliers 
+colonel: collonel colonell 
+rumour: rumor rumer 
+gender: geather 
+meadows: medows 
+perquisites: perquisits 
+adjoining: adjoyning 
+situate: scituate 
+barks: berks 
+vauxhall: vawx-hall 
+sluices: sluces 
+esquire: esq 'squire esqr 
+counsellor: councellor 
+assigns: assignes 
+entitled: entituled intitled intituled 
+provisos: provisoes 
+tureen: tureine 
+champaign: champaigne 
+cardinal: cardinall 
+revival: revivall 
+burdensome: burthensome 
+cries: cryes crys 
+add: adde 
+refuses: refuseth 
+buried: buryed bury'd 
+penned: penn'd 
+literal: literall 
+railing: rayling 
+fanaticism: fanaticalness 
+affliction: aflliction 
+begets: begetts 
+shot: shott 
+inquisitive: enquisitive 
+extremely: extreamly extremly extramly 
+satisfaction: satsifaction sattisfaction 
+possible: posible 
+believed: believ'd beleeved 
+hoof: hoofe 
+something: somthing someth 
+little: lttle litle liitle 
+silence: mum sillence sillance 
+wearied: weary'd 
+commendations: comendations 
+spoiled: spoil'd spoyled 
+metcalfe: metcalf 
+yours: your's yrs yors 
+met: mett 
+desire: desyre desier 
+june: juni 
+excuse: excuss 
+cabinet: cabinett 
+sit: sitt 
+seldom: seldome 
+cousins: cosens 
+ml: mlle 
+holland's: hollands 
+field: feelde 
+morgan's: morgans 
+certainty: certaintie 
+rid: ridd 
+chain: chaine chayne 
+gills: gilles 
+reply: replye riply 
+accordingly: accordinglie 
+creditors: creditours 
+vine: uine 
+sold: solde sould 
+guilders: gilders 
+speedily: speedly speedilie 
+case: casa 
+enemies: enemies' ennemies 
+beginning: begenning begining 
+particulars: particullars perticulars 
+claims: claimes 
+glencairn: glencairns 
+insolences: insolencies 
+sequestered: sequestrated sequestred 
+charles: charls charles' charlas 
+carcase: carkass 
+removes: removeth 
+almond: almonde 
+allege: alledg alledge 
+usual: usuall 
+interested: interessed 
+tied: tyed ty'd 
+stepped: step'd stept 
+accountable: accemptable 
+bridge: bridg 
+drag: dragg 
+lower: lowre 
+sail: sayle sayl saile 
+frigates: frigats frigotts frigots frigatts 
+army: armie armey 
+lieutenant: lieut lieutennant lievtenant leiutenant 
+squadroons: squardrons 
+volleys: volleyes 
+placed: plac'd 
+fury: furie 
+wherewith: wherwith 
+dunkirk: dunkerke dunkirke 
+merchandise: merchandize 
+pirates: pyrats pyrates 
+piracy: pyracy piracie 
+going: goeinge goeing 
+land: lande 
+beggar's: begger's 
+wind: winde 
+story's: storry's 
+pity's: pitty's 
+quarrel: quarrell 
+value: valew vallue 
+taking: takeing 
+northamptonshire: northamptonshyre 
+divide: devide 
+knowledge: knowlege knowledg knoledge knowleg 
+combdon: cambden 
+discern: dissern discerne 
+writing: writinge writeing 
+o'clock: a'clocke oclock a-clock 
+whitelock: whitelocke 
+shore: shoare shoar 
+together: togather togeather togither 
+vice-admiral: vice-admirall 
+clerk: clerke 
+therefore: therefor therfor therfore 
+dangerous: daungerous 
+brass: brasse 
+demi: demy 
+tack: tacke 
+mariners: marriners marryners 
+cabins: cabbins 
+wherein: wherin 
+handsome: hansome handsom 
+broad: broade 
+cloth: cloath 
+rocks: rockes 
+largeness: largenes 
+danger: daunger 
+fowl: fowle 
+fog: fogge 
+horizon: horyson 
+chapel: chappell chappel chapelle 
+stockholm: stockholme 
+cones: conies 
+crowns: crownes 
+heretofore: heertofore 
+traffic: traffique 
+lübeck: lubeck lubec 
+got: gott 
+roll: rowle roul 
+toss: tosse 
+afford: afforde 
+rustling: russling 
+toiling: toyling 
+baltic: baltick 
+clock: clocke 
+flat: flatte 
+shipwrecks: shipwracks 
+thereof: therof 
+roads: roades 
+peril: perill 
+psalm: psal psalme 
+chaplain: chaplein chaplaine 
+afternoon: afternoone 
+laden: loaden 
+portugal: portugall 
+descried: descryed 
+gun: gunne 
+warn: warne 
+boat: bott bot boate 
+choler: choller 
+rejoicing: rejoycing 
+denmark: denmarke 
+danzig: dantzick 
+squeezes: squeeses 
+paralleled: parraleld 
+refusing: refuseing 
+redress: redresse 
+yorkshire: yorkeshire 
+brethren: breathren 
+imitate: immitate 
+nothing: nothinge noething 
+abbey: abby abbe 
+friend: frend frind friende freind 
+agreeable: agreable 
+kelly: keally kelley 
+hermetical: hermeticall 
+process: processe 
+view: viewe veiw 
+few: fewe 
+ago: agoe 
+respectful: respectfull 
+allay: alay aulay 
+mar: marre 
+required: requir'd requird 
+poorly: poorely 
+bewail: bewaile 
+harbour: harbor 
+miscarry: miscary 
+disclaim: disclaime 
+bags: baggs 
+teach: teache 
+accidental: accidentall 
+juggling: jugling 
+secret: secreat 
+lincoln's: lincolns 
+inn: inne 
+fetched: fetchd fetch'd fetcht 
+maladies: maladys 
+kindly: kindely 
+gizzard: gizard 
+skirmishes: skermishes 
+potential: potentiall 
+rendezvous: rendevows rendezvouz randesvouz rendevous 
+hows: howse 
+banged: bangd 
+denied: deny'd denyed dine'd denyd 
+schools: schooles 
+laughed: laughd laugh'd laught 
+college: colledge collige colledg 
+limits: limitts 
+overtook: overtooke 
+abused: abus'd abusd 
+troubled: troubl'd troubld 
+distemper: distempers 
+insensible: unsensible 
+overlook: overlooke 
+suppress: suppresse 
+peremptorily: perremptorily 
+fabric: fabrick 
+swollen: swolne swoln swoll'n 
+inviting: inviteing 
+designed: design'd designd 
+useless: uselesse 
+informed: informd inform'd 
+interposed: interposd 
+undertook: undertooke 
+raillery: rallery railery 
+scene: sceane 
+courage: carrage 
+proposals: proposalls 
+supposed: suppos'd supposd 
+unusual: unusuall unuesuall 
+suffered: suffer'd sufferd 
+desired: desir'd desier'd desird 
+unmindful: unmindfull 
+solitaire: solitare 
+evils: evills 
+humours: humors 
+purchased: purchasd purchas'd 
+welfare: wellfare 
+concerned: concern'd concernd concearnd coceerned 
+beg: begg 
+lentil: lentall 
+rochelle: rochell 
+adventurous: adventrous 
+osborne: osborn 
+infant: infanta 
+liturgy: liturgie 
+cathedral: cathedrall 
+loving: loveing 
+naturalised: naturalized 
+jan: jac 
+devises: deviseth 
+welt's: wild's 
+folio: fol 
+acceptance: acceptation 
+brimstone: bramston 
+naturalisation: naturalization 
+message: messuage 
+janet: jennet 
+swore: sware 
+appalled: appall'd 
+mightily: mighttly 
+puffed: puft 
+britain: brittain 
+damsel: damosel 
+staff: staffe 
+dial: dyal 
+lo: loe 
