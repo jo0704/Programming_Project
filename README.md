@@ -1,7 +1,7 @@
 # Programming Project: Spelling normalisation of historical English to English
 Comparing 3 different approaches to normalize Historical English words from ARCHER Corpus (1600-1700)
 
-1. Norvig Spelling Corrector: edit distance approach
+## 1. Norvig Spelling Corrector: edit distance approach
 
 **Data:** xml files from the ARCHER corpus for years 1600-1700: \
 https://drive.switch.ch/index.php/s/DdWK9EtCxQkePuo (public access) \
@@ -18,18 +18,19 @@ To get dev and test set, run the following UNIX commands to separate the output 
 
 Code from: https://norvig.com/spell-correct.html \
 Language model for Norvig Spelling Corrector script : \
-British National Corpus https://www.swisstransfer.com/d/0b954f85-1805-4499-a32c-c1ea86cf6bef (temporary link, expires in 30 days)\
+British National Corpus (BNC) https://www.swisstransfer.com/d/0b954f85-1805-4499-a32c-c1ea86cf6bef (temporary link, expires in 30 days)\
 **Preprocessing:**  tokenization, lowercasing \
-**Levenshtein distance:** deletion, insertion, substitution, transpose 
+**Levenshtein distance:** deletion, insertion, substitution, transpose \
+Transpose: rare, but improves result by 1% \
+Threshold set for known words to appear at least x times in the BNC, as results initially had a very low score (38% on dev set) due to Historical English words present in the BNC (thus these words would not be corrected to resent-day English. Threshold set to 19 - it doesn't improve beyond/below that on dev set
 
 To get the results of the Norvig Spelling Corrector, run: \
 ```python3 norvig_spelling.py``` 
 
-#### TODO: solve AssertionError on lines 61, 62, 63, 64 -> errors referring back to edits1 function (the set works, but is somehow not taken into account in the unit tests)
-#### current results if lines 61-64 are not run: 38% correct on dev set. Score low due errors...
+#### Results: 51% of 4541 correct on dev
 
 
-2. VARD2: rule-based preprocessing
+## 2. VARD2: rule-based preprocessing
 -Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
 -Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
 -->unnormalized version \
@@ -41,7 +42,7 @@ normalized and unnormalized versions next to each other
 Reference corpus: British National Corpus -> check for spelling (gold standard) \
 Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
 
-3. Character-level recurrent sequence-to-sequence model (seq2seq) 
+## 3. Character-level recurrent sequence-to-sequence model (seq2seq) 
 
 See Jupyter Notebook: ```seq2seq.ipynb```
 
