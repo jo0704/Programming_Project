@@ -46,8 +46,13 @@ Corpus for evaluation/training: ARCHER Corpus -> 1600-1700
 
 See Jupyter Notebook: ```seq2seq.ipynb```
 
-**ICAMET Corpus**: separated into dev, train and test set -> one word per line without context
--input: historical English words / target: modern English words \
+**ICAMET Corpus**: The files were already separated into dev, train and test set  \
+```But train_test_split from sklearn.model_selection``` will be used for evaluation. \
+Therefore the following shell commands were executed to concatenate the input and output files into 1 file each: \
+
+```cat icamet_en-hs_train_hs.txt icamet_en-hs_dev_hs.txt icamet_en-hs_test_hs.txt >concatenated_input.txt ``` for the input (Historical English words) \
+```cat icamet_en-hs_train_en.txt icamet_en-hs_dev_en.txt icamet_en-hs_test_en.txt >concatenated_output.txt ``` for the output (Normalized English words) \
+
 -**step 1: preprocessing the data** \
 -**step 2: building the encoder-decoder LSTM model with set parameters** \
 -**step3: training the model** \
