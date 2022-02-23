@@ -18,7 +18,7 @@ To get dev and test set, run the following UNIX commands to separate the output 
 
 Code from: https://norvig.com/spell-correct.html \
 Language model for Norvig Spelling Corrector script : \
-British National Corpus (BNC) https://www.swisstransfer.com/d/0b954f85-1805-4499-a32c-c1ea86cf6bef (temporary link, expires in 30 days)\
+British National Corpus (BNC) https://www.swisstransfer.com/d/0c7c1bbd-3fac-48c7-8df0-0f8d58388f95 (temporary link, expires in 30 days)\
 **Preprocessing:**  tokenization, lowercasing \
 **Levenshtein distance:** deletion, insertion, substitution, transpose \
 Transpose: rare, but improves result by 1% \
