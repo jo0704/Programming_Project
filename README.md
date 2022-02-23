@@ -18,7 +18,7 @@ To get dev and test set, run the following UNIX commands to separate the output 
 
 Code from: https://norvig.com/spell-correct.html \
 Language model for Norvig Spelling Corrector script : \
-British National Corpus (BNC) https://www.swisstransfer.com/d/0b954f85-1805-4499-a32c-c1ea86cf6bef (temporary link, expires in 30 days)\
+British National Corpus (BNC) https://www.swisstransfer.com/d/0c7c1bbd-3fac-48c7-8df0-0f8d58388f95 (temporary link, expires in 30 days)\
 **Preprocessing:**  tokenization, lowercasing \
 **Levenshtein distance:** deletion, insertion, substitution, transpose \
 Transpose: rare, but improves result by 1% \
@@ -27,27 +27,28 @@ Threshold set for known words to appear at least x times in the BNC, as results 
 To get the results of the Norvig Spelling Corrector, run: \
 ```python3 norvig_spelling.py``` 
 
-#### Results: 51% of 4541 correct on dev
+#### Evaluation metrics: accuracy, recall and precision
+```evaluation_results.txt``` \
+confusion matrix: \
+<img width="539" alt="confusion_matrix" src="https://user-images.githubusercontent.com/56045665/155241341-60a0bc04-fad7-4596-9134-54baa25dc801.png"> \
+Precision: TP/TP+FP \
+ratio of correctly predicted positive samples to the total predicted positive samples (normalized) \
+Accuracy: TP+TN/TP+FP+FN+TN \
+ratio of correctly predicted translations to the total translations \
+Recall: TP/TP+FN \
+ratio of positive samples correctly classified as positive to the total positive samples
 
-
-## 2. VARD2: rule-based preprocessing
--Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
--Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
--->unnormalized version \
-Advances --> rule list manager \
-batch mode ->xml input and output \
-normalized and unnormalized versions next to each other 
-
-
-Reference corpus: British National Corpus -> check for spelling (gold standard) \
-Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
-
-## 3. Character-level recurrent sequence-to-sequence model (seq2seq) 
+## 2. Character-level recurrent sequence-to-sequence model (seq2seq) 
 
 See Jupyter Notebook: ```seq2seq.ipynb```
 
-**ICAMET Corpus**: separated into dev, train and test set -> one word per line without context
--input: historical English words / target: modern English words \
+**ICAMET Corpus**: The files were already separated into dev, train and test set  \
+```But train_test_split from sklearn.model_selection``` will be used for evaluation. \
+Therefore the following shell commands were executed to concatenate the input and output files into 1 file each: \
+
+```cat icamet_en-hs_train_hs.txt icamet_en-hs_dev_hs.txt icamet_en-hs_test_hs.txt >concatenated_input.txt ``` for the input (Historical English words) \
+```cat icamet_en-hs_train_en.txt icamet_en-hs_dev_en.txt icamet_en-hs_test_en.txt >concatenated_output.txt ``` for the output (Normalized English words) \
+
 -**step 1: preprocessing the data** \
 -**step 2: building the encoder-decoder LSTM model with set parameters** \
 -**step3: training the model** \
@@ -58,4 +59,14 @@ evaluation with ICAMET, and ARCHER (years 1600-1700)
 accuracy: compare with the number of words that don't need to be changed \
 precision and recall -> for words that the algorithm changed something / gold standard cases 
 
+## (3. VARD2: rule-based preprocessing)
+-Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
+-Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
+-->unnormalized version \
+Advances --> rule list manager \
+batch mode ->xml input and output \
+normalized and unnormalized versions next to each other 
 
+
+Reference corpus: British National Corpus -> check for spelling (gold standard) \
+Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
