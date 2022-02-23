@@ -27,22 +27,18 @@ Threshold set for known words to appear at least x times in the BNC, as results 
 To get the results of the Norvig Spelling Corrector, run: \
 ```python3 norvig_spelling.py``` 
 
-#### Results: 51% of 4541 correct on dev
+#### Evaluation metrics: accuracy, recall and precision
+```evaluation_results.txt``` \
+confusion matrix: \
+<img width="539" alt="confusion_matrix" src="https://user-images.githubusercontent.com/56045665/155241341-60a0bc04-fad7-4596-9134-54baa25dc801.png"> \
+Precision: TP/TP+FP \
+ratio of correctly predicted positive samples to the total predicted positive samples (normalized) \
+Accuracy: TP+TN/TP+FP+FN+TN \
+ratio of correctly predicted translations to the total translations \
+Recall: TP/TP+FN \
+ratio of positive samples correctly classified as positive to the total positive samples
 
-
-## 2. VARD2: rule-based preprocessing
--Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
--Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
--->unnormalized version \
-Advances --> rule list manager \
-batch mode ->xml input and output \
-normalized and unnormalized versions next to each other 
-
-
-Reference corpus: British National Corpus -> check for spelling (gold standard) \
-Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
-
-## 3. Character-level recurrent sequence-to-sequence model (seq2seq) 
+## 2. Character-level recurrent sequence-to-sequence model (seq2seq) 
 
 See Jupyter Notebook: ```seq2seq.ipynb```
 
@@ -63,4 +59,14 @@ evaluation with ICAMET, and ARCHER (years 1600-1700)
 accuracy: compare with the number of words that don't need to be changed \
 precision and recall -> for words that the algorithm changed something / gold standard cases 
 
+## (3. VARD2: rule-based preprocessing)
+-Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
+-Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
+-->unnormalized version \
+Advances --> rule list manager \
+batch mode ->xml input and output \
+normalized and unnormalized versions next to each other 
 
+
+Reference corpus: British National Corpus -> check for spelling (gold standard) \
+Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
