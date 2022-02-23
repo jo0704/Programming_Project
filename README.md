@@ -28,6 +28,7 @@ To get the results of the Norvig Spelling Corrector, run: \
 ```python3 norvig_spelling.py``` 
 
 #### Evaluation metrics: accuracy, recall and precision
+evaluation with ICAMET, and ARCHER (years 1600-1700) \
 ```evaluation_results.txt``` \
 confusion matrix: \
 <img width="539" alt="confusion_matrix" src="https://user-images.githubusercontent.com/56045665/155241341-60a0bc04-fad7-4596-9134-54baa25dc801.png"> \
@@ -36,7 +37,8 @@ ratio of correctly predicted positive samples to the total predicted positive sa
 Accuracy: TP+TN/TP+FP+FN+TN \
 ratio of correctly predicted translations to the total translations \
 Recall: TP/TP+FN \
-ratio of positive samples correctly classified as positive to the total positive samples
+ratio of positive samples correctly classified as positive to the total positive samples \
+The file ```results_common.txt``` contains the historical English words that are spelled like today
 
 ## 2. Character-level recurrent sequence-to-sequence model (seq2seq) 
 
@@ -44,10 +46,10 @@ See Jupyter Notebook: ```seq2seq.ipynb```
 
 **ICAMET Corpus**: The files were already separated into dev, train and test set  \
 ```But train_test_split from sklearn.model_selection``` will be used for evaluation. \
-Therefore the following shell commands were executed to concatenate the input and output files into 1 file each: \
+Therefore the following shell commands were executed to concatenate the input and output files into 1 file each: 
 
 ```cat icamet_en-hs_train_hs.txt icamet_en-hs_dev_hs.txt icamet_en-hs_test_hs.txt >concatenated_input.txt ``` for the input (Historical English words) \
-```cat icamet_en-hs_train_en.txt icamet_en-hs_dev_en.txt icamet_en-hs_test_en.txt >concatenated_output.txt ``` for the output (Normalized English words) \
+```cat icamet_en-hs_train_en.txt icamet_en-hs_dev_en.txt icamet_en-hs_test_en.txt >concatenated_output.txt ``` for the output (Normalized English words) 
 
 -**step 1: preprocessing the data** \
 -**step 2: building the encoder-decoder LSTM model with set parameters** \
