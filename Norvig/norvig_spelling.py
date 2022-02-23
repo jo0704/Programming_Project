@@ -1,6 +1,18 @@
+#! /usr/bin/python3
+# -*- coding: utf-8 -*-
 #Author: Joëlle Gasser
+#Norvig Spelling Corrector Historical English to Normalized English
+
 import re
 from collections import Counter
+from sklearn.metrics import accuracy_score, precision_score, recall_score
+
+dev = open('dev.txt', 'r', encoding='utf8')
+test = open('test.txt', 'r', encoding='utf8')
+icamet_dev= open('icamet_en-hs_dev_hsen.txt', 'r', encoding='utf8')
+icamet_test = open('icamet_en-hs_test_hsen.txt', 'r', encoding='utf8')
+output = open('evaluation_results.txt', 'w', encoding = 'utf8')
+output_common = open('results_common.txt', 'w', encoding = 'utf8')
 
 def lower_text(text): 
     """
@@ -50,18 +62,6 @@ def known(words):
     "The subset of `words` that appear in the dictionary of words"
     return set(w for w in words if w in known_words)
 
-#print(correction('korrectud'))
-#print(edits1('smoothe'))
-#print(correction('sunne'))
-#print(correction('smoothe'))
-#print(correction('anely'))
-#print(correction('legg'))
-#print(correction('legge'))
-#print(correction('aires'))
-#print(correction('frighted'))
-#print(correction('signe'))
-#print(correction("ev'ry"))
-
 def unit_tests():
     assert correction('dresed') == 'dressed'                # insert
     assert correction('korrectud') == 'corrected'           # replace 2
@@ -90,34 +90,128 @@ def unit_tests():
     assert known_words['the'] == 5647035
     assert 0.06 < P('the') < 0.07
     return 'unit_tests pass'
+# print(unit_tests())
 
-#print(P('the'))
-print(unit_tests())
+def spelltest(tests):
+    "Run correction(hist) on all (normalized, hist) pairs"
+    #good, unknown = 0, 0
+    predicted = []
+    norm = []  
+    #n = len(tests)
+    for normalized, hist in tests:
+        #w = correction(hist)
+        norm.append(normalized)
+        predicted.append(correction(hist))
+        # good += (w == normalized)
+        # if w != normalized:
+        #     unknown += (normalized not in known_words)
+    # with open('results_norvig.txt', 'w') as f:
+    #     f.write('Accuracy: {:.0%} of {} correct ({:.0%} unknown) '
+    #       .format(good / n, n, unknown / n, n))
+    return norm, predicted
 
-def spelltest(tests, verbose=False):
-    "Run correction(wrong) on all (right, wrong) pairs; report results."
-    good, unknown = 0, 0
-    n = len(tests)
-    for right, wrong in tests:
-        w = correction(wrong)
-        good += (w == right)
-        if w != right:
-            unknown += (right not in known_words)
-            if verbose:
-                print('correction({}) => {} ({}); expected {} ({})'
-                      .format(wrong, w, known_words[w], right, known_words[right]))
-    print('{:.0%} of {} correct ({:.0%} unknown) '
-          .format(good / n, n, unknown / n, n))
-    with open('results_norvig.txt', 'w') as f:
-        f.write('{:.0%} of {} correct ({:.0%} unknown) '
-          .format(good / n, n, unknown / n, n))
-    
 def Testset(lines):
-    "Parse 'right: wrong1 wrong2' lines into [('right', 'wrong1'), ('right', 'wrong2')] pairs."
-    return [(right, wrong)
-            for (right, wrongs) in (line.split(':') for line in lines)
-            for wrong in wrongs.split()]
+    "ARCHER: Parse 'normalized: hist1 hist2' lines into [('normalized', 'hist1'), ('normalized', 'hist2')] pairs."
+    return [(normalized, hist)
+            for (normalized, hists) in (line.split(':') for line in lines)
+            for hist in hists.split()]
+
+def Testset2(lines):
+    "ICAMET:Parse 'normalized: hist1 hist2' lines into [('normalized', 'hist1'), ('normalized', 'hist2')] pairs."
+    return [(normalized, hist)
+            for (normalized, hists) in (line.split('\t') for line in lines)
+            for hist in hists.split()]
 
 
-#spelltest(Testset(open('dev.txt'))) # Development set
-#spelltest(Testset(open('test.txt'))) # Final test set
+def common_el(list_norm, list_hist):
+    "common elements in normalized/historical English lists"
+    return [el for el in list_norm if el in list_hist]
+
+def main():
+
+    #save lists for calculating accuracy, recall and precision, and for calculating similar words between the lists
+    normalized_dev, predicted_dev = spelltest(Testset(dev))
+    normalized_test, predicted_test = spelltest(Testset(test))
+    icamet_normalized_dev, icamet_predicted_dev = spelltest(Testset2(icamet_dev))
+    icamet_normalized_test, icamet_predicted_test = spelltest(Testset2(icamet_test))
+
+    set_normalized_dev = set(normalized_dev)
+    set_predicted_dev = set(predicted_dev)
+    common_dev = common_el(set_normalized_dev, set_predicted_dev)
+    common_dev_perc = (len(set(set_predicted_dev).intersection(set(set_normalized_dev))))/len(set_predicted_dev) 
+
+    set_normalized_test = set(normalized_test)
+    set_predicted_test = set(predicted_test)
+    common_test = common_el(set_normalized_test, set_predicted_test)
+    common_test_perc = (len(set(set_predicted_test).intersection(set(set_normalized_test))))/len(set_predicted_test) 
+
+    set_icamet_normalized_dev = set(icamet_normalized_dev)
+    set_icamet_predicted_dev = set(icamet_predicted_dev)
+    icamet_common_dev = common_el(set_icamet_normalized_dev, set_icamet_predicted_dev)
+    icamet_common_dev_perc = (len(set(set_icamet_predicted_dev).intersection(set(set_icamet_normalized_dev))))/len(set_icamet_predicted_dev) 
+
+    set_icamet_normalized_test = set(icamet_normalized_test)
+    set_icamet_predicted_test = set(icamet_predicted_test)
+    icamet_common_test = common_el(set_icamet_normalized_test, set_icamet_predicted_test)
+    icamet_common_test_perc = (len(set(set_icamet_predicted_test).intersection(set(set_icamet_normalized_test))))/len(set_icamet_predicted_test) 
+    
+    #Historical English words that are spelled like today
+    output_common.write("What are the historical English words that are spelled like today?" + '\n' + "ARCHER" + '\n' + "DEV SET" + '\n' + '-------------------------------------' +'\n')
+    for el in common_dev:
+        output_common.write(el +'\n')
+    output_common.write('-------------------------------------' +'\n' + "TEST SET" + '\n' + '-------------------------------------' +'\n')
+    for el in common_test:
+        output_common.write(el +'\n')
+    output_common.write('-------------------------------------' +'\n' + "ICAMET" + '\n' + "DEV SET" + '\n' + '-------------------------------------' +'\n')
+    for el in icamet_common_dev:
+        output_common.write(el +'\n')
+    output_common.write('-------------------------------------' +'\n' + "TEST SET" + '\n' + '-------------------------------------' +'\n')
+    for el in icamet_common_test:
+        output_common.write(el +'\n')
+    
+    output_common.close()
+
+    #calculate evaluation metrics with sklearn
+    #archer
+    recall_dev = recall_score(normalized_dev, predicted_dev, average="micro")
+    precision_dev = precision_score(normalized_dev, predicted_dev, average="micro")
+    accuracy_dev = accuracy_score(normalized_dev, predicted_dev) 
+    recall_test = recall_score(normalized_test, predicted_test, average="micro") 
+    precision_test = precision_score(normalized_test, predicted_test, average="micro") 
+    accuracy_test = accuracy_score(normalized_test, predicted_test) 
+    #icamet
+    icamet_recall_dev = recall_score(icamet_normalized_dev, icamet_predicted_dev, average="micro")
+    icamet_precision_dev = precision_score(icamet_normalized_dev, icamet_predicted_dev, average="micro")
+    icamet_accuracy_dev = accuracy_score(icamet_normalized_dev, icamet_predicted_dev) 
+    icamet_recall_test = recall_score(icamet_normalized_test, icamet_predicted_test, average="micro") 
+    icamet_precision_test = precision_score(icamet_normalized_test, icamet_predicted_test, average="micro") 
+    icamet_accuracy_test = accuracy_score(icamet_normalized_test, icamet_predicted_test) 
+
+    #write evaluation metrics in output file
+    output.write("ARCHER" + '\n' + '-------------------------------------' +'\n')
+    output.write("Recall dev:" + '\t' + '{:.2%}'.format(recall_dev) + '\n')
+    output.write("Precision dev:" + '\t' + '{:.2%}'.format(precision_dev) + '\n')
+    output.write("Accuracy dev:"  + '\t'+ '{:.2%}'.format(accuracy_dev) +'\n' + '-------------------------------------' + '\n')
+    output.write("Recall test:" + '\t' + '{:.2%}'.format(recall_test) + '\n')
+    output.write("Precision test:" + '\t' + '{:.2%}'.format(precision_test) + '\n')
+    output.write("Accuracy test:" + '\t' + '{:.2%}'.format(accuracy_test) +'\n' + '-------------------------------------' +'\n')
+    output.write("How many historical English words are spelled like today?" + '\n')
+    output.write("DEV SET" + '\t' + '{:.2%}'.format(common_dev_perc) + '\n')
+    output.write("TEST SET" + '\t' + '{:.2%}'.format(common_test_perc) + '\n' + '-------------------------------------' +'\n')
+    
+    output.write("ICAMET" + '\n' + '-------------------------------------' +'\n')
+    output.write("Recall dev:" + '\t' + '{:.2%}'.format(icamet_recall_dev) + '\n')
+    output.write("Precision dev:" + '\t' + '{:.2%}'.format(icamet_precision_dev) + '\n')
+    output.write("Accuracy dev:"  + '\t'+ '{:.2%}'.format(icamet_accuracy_dev) +'\n' + '-------------------------------------' + '\n')
+    output.write("Recall test:" + '\t' + '{:.2%}'.format(icamet_recall_test) + '\n')
+    output.write("Precision test:" + '\t' + '{:.2%}'.format(icamet_precision_test) + '\n')
+    output.write("Accuracy test:" + '\t' + '{:.2%}'.format(icamet_accuracy_test) +'\n' + '-------------------------------------' +'\n')
+    output.write("How many historical English words are spelled like today?" + '\n')
+    output.write("DEV SET" + '\t' + '{:.2%}'.format(icamet_common_dev_perc) + '\n')
+    output.write("TEST SET" + '\t' + '{:.2%}'.format(icamet_common_test_perc) + '\n' + '-------------------------------------' +'\n')
+
+    output.close()
+
+
+if __name__ == '__main__':
+	main()

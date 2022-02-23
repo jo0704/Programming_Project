@@ -1,0 +1,28 @@
+ARCHER
+-------------------------------------
+Recall dev:	50.56%
+Precision dev:	50.56%
+Accuracy dev:	50.56%
+-------------------------------------
+Recall test:	52.24%
+Precision test:	52.24%
+Accuracy test:	52.24%
+-------------------------------------
+How many historical English words are spelled like today?
+DEV SET	54.33%
+TEST SET	54.21%
+-------------------------------------
+ICAMET
+-------------------------------------
+Recall dev:	64.50%
+Precision dev:	64.50%
+Accuracy dev:	64.50%
+-------------------------------------
+Recall test:	64.20%
+Precision test:	64.20%
+Accuracy test:	64.20%
+-------------------------------------
+How many historical English words are spelled like today?
+DEV SET	57.85%
+TEST SET	57.12%
+-------------------------------------
