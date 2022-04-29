@@ -61,14 +61,31 @@ evaluation with ICAMET, and ARCHER (years 1600-1700)
 accuracy: compare with the number of words that don't need to be changed \
 precision and recall -> for words that the algorithm changed something / gold standard cases 
 
-## (3. VARD2: rule-based preprocessing)
--Run VARD2: ```run.bat``` on Windows (requirement to have JAVA installed)/ ```run.sh``` on Linux \
--Select User Interface: 1st one -> single text (interactive). open -> file: xml also possible
--->unnormalized version \
-Advances --> rule list manager \
-batch mode ->xml input and output \
-normalized and unnormalized versions next to each other 
+## 3. Neural approach: Nematus
 
+Nematus is an attention-based encoder-decoder model for NMT implemented in
+Python and built in Tensorflow. \
+```git clone https://github.com/EdinburghNLP/nematus``` \
+-**step 1: preprocessing the data:** run ```./preprocess.sh``` \
+inputs: icamet train, dev and test files turned into sentences \
+train.src.raw \
+train.trg.raw \
+```cat train.src.raw train.trg.raw > train.src.trg.raw``` : to create joint vocab with Sentencepiece (spm) \
+dev.src.raw \
+dev.trg.raw \
+test.src.raw \
+test.trg.raw \
+-**step 2: training:** on university's server rattle with one GPU \
+```./train.sh GPU_ID``` \
+Training uses early stop, which is based on the evaluated metric on the validation
+set at training time, in that case the character n-gram F-score (chrF) \
+-**step 3: generate translations** \
+run ```./evaluate.sh GPU_ID```
 
-Reference corpus: British National Corpus -> check for spelling (gold standard) \
-Corpus for evaluation/training: ARCHER Corpus -> 1600-1700 
+translations are stored in : Nematus\translations\dev.post and Nematus\translations\test.post
+
+-**step 4: compute evaluation scores** \
+run ```./validate.sh dev.post``` and ```./validate.sh test.post``` \
+chrF dev.post: **88.88**
+chrF test.post: **89.30**
+
