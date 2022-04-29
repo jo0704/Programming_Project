@@ -65,7 +65,14 @@ precision and recall -> for words that the algorithm changed something / gold st
 
 Nematus is an attention-based encoder-decoder model for NMT implemented in
 Python and built in Tensorflow. \
-```git clone https://github.com/EdinburghNLP/nematus``` \
+
+Requirements: \
+Python 3 \
+Install environment: ```conda create --name tf_gpu tensorflow-gpu=2.2.0 python=3.7 cudatoolkit=10``` \
+```conda activate tf_gpu``` \
+Download Nematus: ```git clone https://github.com/EdinburghNLP/nematus``` \
+sentencepiece/build/src
+
 -**step 1: preprocessing the data:** run ```./preprocess.sh``` \
 inputs: icamet train, dev and test files turned into sentences with ```process.py```\
 train.src.raw \
@@ -79,7 +86,7 @@ test.trg.raw \
 ```./train.sh GPU_ID``` \
 Training uses early stop, which is based on the evaluated metric on the validation
 set at training time, in that case the character n-gram F-score (chrF) \
-log file of training process is stored in ```Nematus\scripts\log.out```
+log file of training process is stored in ```Nematus\scripts\log.out``` \
 -**step 3: generate translations** \
 run ```./evaluate.sh GPU_ID```
 
