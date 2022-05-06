@@ -72,11 +72,11 @@ Python and built in Tensorflow (Sennrich et al. 2017).
 Python 3 \
 Install environment: ```conda create --name tf_gpu tensorflow-gpu=2.2.0 python=3.7 cudatoolkit=10``` \
 ```conda activate tf_gpu``` and install all requirements in environment \
-If SacreBLEU is not installed: pip install sacrebleu \
-Install Tensorflow: pip install --upgrade tensorflow \
+If SacreBLEU is not installed: ```pip install sacrebleu``` \
+Install Tensorflow: ```pip install --upgrade tensorflow``` \
 Download Nematus: ```git clone https://github.com/EdinburghNLP/nematus``` \
-Build and install Sentencepiece (if not done yet): pip install sentencepiece \
-All other requirements for Sentencepiece are explained in https://github.com/google/sentencepiece#build-and-install-sentencepiece-command-line-tools-from-c-source\
+Build and install Sentencepiece (if not done yet): ```pip install sentencepiece``` \
+All other requirements for Sentencepiece are explained in https://github.com/google/sentencepiece#build-and-install-sentencepiece-command-line-tools-from-c-source \
 Sentencepiece is the BPE technique applied in Nematus for preprocessing and postprocessing
 
 -**step 1: preprocessing the data:**  \
