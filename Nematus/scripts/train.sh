@@ -1,14 +1,6 @@
 #!/bin/sh
 
 
-# To train a model call like:
-# 	  bash train.sh GPU_NR
-# where GPU_NR is the id of the GPU you want to train on
-
-# For BPE-dropout, add this option to the list of hyperparameter:
-#     --preprocess_script $script_dir/apply_bpedropout_during_training.sh \
-
-
 gpu_id=$1
 
 nematus_home="/home/user/gasser/anaconda3/nematus" # path to nematus directory
