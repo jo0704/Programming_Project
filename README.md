@@ -66,10 +66,12 @@ precision and recall -> for words that the algorithm changed something / gold st
 Nematus is an attention-based encoder-decoder model for NMT implemented in
 Python and built in Tensorflow. \
 
-Requirements: \
+**Requirements:** \
 Python 3 \
 Install environment: ```conda create --name tf_gpu tensorflow-gpu=2.2.0 python=3.7 cudatoolkit=10``` \
-```conda activate tf_gpu``` \
+```conda activate tf_gpu``` and install all requirements in environment \
+If SacreBLEU is not installed: pip install sacrebleu \
+Install Tensorflow: pip install --upgrade tensorflow \
 Download Nematus: ```git clone https://github.com/EdinburghNLP/nematus``` \
 sentencepiece/build/src
 
@@ -94,6 +96,12 @@ translations are stored in : ```Nematus\translations\dev.post``` and ```Nematus\
 
 -**step 4: compute evaluation scores** \
 run ```./validate.sh dev.post``` and ```./validate.sh test.post``` \
-chrF dev.post: **88.88** \
-chrF test.post: **89.30**
+OR ```sacrebleu dev.ref -i dev.post --force -w 2 -m chrf``` & ```sacrebleu test.ref -i test.post --force -w 2 -m chrf``` \
+(test.ref is the file test.trg.raw)
+chrF dev: **88.88** \
+chrF test: **89.30** \
+to compute both BLEU and chrf scores: ```sacrebleu dev.ref -i dev.post --force -w 2 -m bleu chrf``` & ```sacrebleu test.ref -i test.post --force -w 2 -m bleu chrf``` \
+this also gives us information about BLEU:
+BLEU dev: **78.11**
+BLEU test: **78.68** 
 
