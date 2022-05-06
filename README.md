@@ -54,17 +54,19 @@ Therefore the following shell commands were executed to concatenate the input an
 -**step 1: preprocessing the data** \
 -**step 2: building the encoder-decoder LSTM model with set parameters** \
 -**step3: training the model** \
--**step 4: testing the model** by making predictions and see how well it performs \
+-**step 4: testing the model** make predictions and see how well it performs \
 evaluation with ICAMET, and ARCHER (years 1600-1700) 
 
 **evaluation metrics**
 accuracy: compare with the number of words that don't need to be changed \
 precision and recall -> for words that the algorithm changed something / gold standard cases 
 
-## 3. Neural approach: Nematus
+Task could not be completed: problems while training and testing
+
+## 3. State-of-the-art neural approach: Nematus
 
 Nematus is an attention-based encoder-decoder model for NMT implemented in
-Python and built in Tensorflow. \
+Python and built in Tensorflow (Sennrich et al. 2017). 
 
 **Requirements:** \
 Python 3 \
@@ -73,28 +75,38 @@ Install environment: ```conda create --name tf_gpu tensorflow-gpu=2.2.0 python=3
 If SacreBLEU is not installed: pip install sacrebleu \
 Install Tensorflow: pip install --upgrade tensorflow \
 Download Nematus: ```git clone https://github.com/EdinburghNLP/nematus``` \
-sentencepiece/build/src
+Build and install Sentencepiece (if not done yet): pip install sentencepiece \
+All other requirements for Sentencepiece are explained in https://github.com/google/sentencepiece#build-and-install-sentencepiece-command-line-tools-from-c-source\
+Sentencepiece is the BPE technique applied in Nematus for preprocessing and postprocessing
 
--**step 1: preprocessing the data:** run ```./preprocess.sh``` \
-inputs: icamet train, dev and test files turned into sentences with ```process.py```\
+-**step 1: preprocessing the data:**  \
+inputs: icamet train, dev and test files (one word per line, end of sentences marked by empty line) turned into sentences with ```process.py```\
+note: the training files contained (encoding) errors that had to be manually corrected: \
+Entire sentences were skipped due to some lines containing errors such as /000/000 probably due to some weird characters - these were deleted and the correct sentences were added manually
+
+The files we get with the script:
 train.src.raw \
 train.trg.raw \
 ```cat train.src.raw train.trg.raw > train.src.trg.raw``` : to create joint vocab with Sentencepiece (spm) \
 dev.src.raw \
 dev.trg.raw \
 test.src.raw \
-test.trg.raw \
--**step 2: training:** on university's server rattle with one GPU \
+test.trg.raw 
+
+run ```./preprocess.sh``` : the script prepares the data files for training and creates a shared vocabulary between training source and target (as we are working with a small amount of data, this is done so that the model learns better) and applied spm splits on all the data files (train, dev and test) \
+-**step 2: training:** on university's server rattle with one GPU (note: scripts and data files are not on rattle anymore) \
 ```./train.sh GPU_ID``` \
+Training uses the preprocessed data files obtained in step 1 \
 Training uses early stop, which is based on the evaluated metric on the validation
 set at training time, in that case the character n-gram F-score (chrF) \
 log file of training process is stored in ```Nematus\scripts\log.out``` \
 -**step 3: generate translations** \
-run ```./evaluate.sh GPU_ID```
+run ```./evaluate.sh GPU_ID``` 
 
-translations are stored in : ```Nematus\translations\dev.post``` and ```Nematus\translations\test.post```
+translations are generated for both dev and test and are stored in : ```Nematus\translations\dev.post``` and ```Nematus\translations\test.post```
 
 -**step 4: compute evaluation scores** \
+chrf: Character-level n-gram F-score (Popovic 2015) \
 run ```./validate.sh dev.post``` and ```./validate.sh test.post``` \
 OR ```sacrebleu dev.ref -i dev.post --force -w 2 -m chrf``` & ```sacrebleu test.ref -i test.post --force -w 2 -m chrf``` \
 (test.ref is the file test.trg.raw)
