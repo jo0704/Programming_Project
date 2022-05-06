@@ -1,4 +1,5 @@
 #!/bin/sh
+#validate.sh is called at training process to evaluate on dev set with chrf
 
 translations=$1
 
@@ -10,6 +11,4 @@ data_dir="/home/user/gasser/norm" # path to data directory
 ref="test.trg.raw"
 
 #compute chrF score
-$script_dir/postprocess.sh < $translations | sacrebleu --force -q -w 2 -m chrf -b $data_dir/$ref
-#compute BLEU score
-# $script_dir/postprocess.sh < $translations | sacrebleu --force -q -w 2 -b $data_dir/$ref
+$script_dir/postprocess.sh < $translations | sacrebleu --force -w 2 -m chrf -b $data_dir/$ref
