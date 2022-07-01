@@ -1,5 +1,12 @@
 # Programming Project: Spelling normalisation of historical English to English
-Comparing 3 different approaches to normalize Historical English words from ARCHER Corpus (1600-1700)
+
+## Introduction
+
+This project aims to compare 3 different approaches to normalize Historical English words from the ARCHER Corpus (1600-1700).
+The first approach adapts a script provided by Peter Norvig (https://norvig.com/spell-correct.html). The spelling corrector uses the Levenshtein distance to correct words in Historical English. This basic edit distance approach will serve as the baseline in the present project. \
+The second approach I set out to do was a character-level recurrent sequence-to-sequence model. However, due to complications while training and testing the model, the task could not be completed and therefore only parts of this approach are made available in a Jupyter notebook. \
+The third approach uses a state-of-the-art encoder-decoder model for NMT named Nematus (Sennrich et al. 2017).
+
 
 ## 1. Norvig Spelling Corrector: edit distance approach
 
@@ -116,4 +123,10 @@ to compute both BLEU and chrf scores: ```sacrebleu dev.ref -i dev.post --force -
 this also gives us information about BLEU:
 BLEU dev: **78.11**
 BLEU test: **78.68** 
+
+## Comparison and Conclusion
+
+Since the seq2seq approach did not yield results, the comparison will focus on the Norvig Spelling Corrector and the Nematus toolkit. 
+Even though the neural model is provided with little data for training, the chrF and BLEU scores are relatively high.
+
 
