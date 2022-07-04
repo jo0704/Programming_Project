@@ -128,5 +128,8 @@ BLEU test: **78.68**
 
 Since the seq2seq approach did not yield results, the comparison will focus on the Norvig Spelling Corrector and the Nematus toolkit. 
 Even though the neural model is provided with little data for training, the chrF and BLEU scores are relatively high.
+The fine-grained manual evaluation of 20 sentences in the test set (see file Nematus/error_analysis.pdf) has shown that spelling errors are the most frequent type of errors. Other errors are grammatical ones such as subject-verb agreement, Named Entity (cities and proper names), missing words and casing. What is promising however is that the model corrects spelling errors in the reference (e.g. wellbehaved and alle). The inclusion of a list of Named Entities could benefit the model for a better translation of these instances, for example with Factored Machine Translation. What needs to be pointed out is that the sentences in the reference are for the most part very long and not naturally fluent, which makes it difficult for the model to learn and which results in the model's better translations of short sentences. \
+Since the provided ICAMET data set was already split into train, dev and test, it is not possible to determine whether the model is better at translating earlier or later texts.
+
 
 
